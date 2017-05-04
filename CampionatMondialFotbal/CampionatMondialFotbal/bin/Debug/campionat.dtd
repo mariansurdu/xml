@@ -1,0 +1,36 @@
+<!ELEMENT campionate (campionat+)>
+<!ATTLIST campionat AN CDATA #REQUIRED>
+<!ELEMENT campionat (tara_gazda,grupa+)>
+<!ELEMENT tara_gazda (denumire)>
+<!ELEMENT denumire (#PCDATA)>
+<!ATTLIST grupa Nume_Grupa CDATA #REQUIRED>
+<!ELEMENT grupa (meci+)>  
+<!ATTLIST meci Numar_Meci CDATA #REQUIRED> 
+<!ELEMENT meci (echipa+,stadion,arbitru,scor)>
+<!ELEMENT echipa (nume_echipa,jucator+,antrenor)>
+<!ELEMENT nume_echipa (#PCDATA)>
+<!ELEMENT jucator (nume_jucator,numar,pozitie)>
+<!ELEMENT nume_jucator (#PCDATA)>
+<!ELEMENT numar (#PCDATA)>
+<!ELEMENT pozitie (#PCDATA)>
+<!ELEMENT antrenor (nume_antrenor)>
+<!ELEMENT nume_antrenor (#PCDATA)>
+<!ELEMENT stadion (nume_stadion,oras,capacitate)>
+<!ELEMENT nume_stadion (#PCDATA)>
+<!ELEMENT oras (#PCDATA)>
+<!ELEMENT capacitate (#PCDATA)>
+<!ELEMENT arbitru (nume_arbitru)>
+<!ELEMENT nume_arbitru (#PCDATA)>
+<!ELEMENT scor EMPTY> 
+<!ATTLIST scor val CDATA #REQUIRED>
+
+
+
+
+
+
+
+
+
+
+

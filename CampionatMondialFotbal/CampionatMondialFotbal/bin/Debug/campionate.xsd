@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.acs.ro/"
+xmlns="http://www.acs.ro/"
+elementFormDefault="qualified"> 
+<xs:element name="campionate">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="campionat" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="tara_gazda" minOccurs="1" maxOccurs="1">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="denumire" type="xs:string"/>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+						<xs:element name="grupa" maxOccurs="unbounded">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="meci" maxOccurs="6">
+										<xs:complexType>
+											<xs:sequence>
+												<xs:element name="echipa" maxOccurs="2">
+													<xs:complexType>
+														<xs:sequence>
+															<xs:element name="nume_echipa" type="xs:string"/>
+															<xs:element name="jucator" maxOccurs="11">
+																<xs:complexType>
+																	<xs:sequence>
+																		<xs:element name="nume_jucator">
+																		<xs:simpleType> 
+																			 <xs:restriction base="xs:string"> 
+																				 <xs:whiteSpace value="preserve"/> 
+																			 </xs:restriction> 
+																		</xs:simpleType>
+																		</xs:element>
+																		<xs:element name="numar">
+																		<xs:simpleType> 
+																			 <xs:restriction base="xs:integer"> 
+																				 <xs:minInclusive value="1"/>
+																				 <xs:maxInclusive value="90"/> 
+																			 </xs:restriction> 
+																		</xs:simpleType>
+																		</xs:element>
+																	    <xs:element name="pozitie">
+																		<xs:simpleType>
+																			 <xs:restriction base="xs:string"> 
+																				 <xs:enumeration value="Portar"/>
+																				 <xs:enumeration value="Fundas"/>
+																				 <xs:enumeration value="Mijlocas"/> 
+																				 <xs:enumeration value="Atacant"/> 
+																			 </xs:restriction>
+																		</xs:simpleType>
+																		</xs:element>
+																	</xs:sequence>
+																</xs:complexType>
+															</xs:element>
+															<xs:element name="antrenor" minOccurs="1" maxOccurs="1">
+																<xs:complexType>
+																	<xs:sequence>
+																		<xs:element name="nume_antrenor">
+																		<xs:simpleType> 
+																			 <xs:restriction base="xs:string"> 
+																				 <xs:whiteSpace value="preserve"/> 
+																			 </xs:restriction> 
+																		</xs:simpleType>
+																		</xs:element>
+																	</xs:sequence>
+																</xs:complexType>
+															</xs:element>
+														</xs:sequence>
+													</xs:complexType>
+												</xs:element>
+												<xs:element name="stadion" minOccurs="1" maxOccurs="1">
+													<xs:complexType>
+														<xs:sequence>
+															<xs:element name="nume_stadion" type="xs:string"/>
+															<xs:element name="oras" type="xs:string"/>
+															<xs:element name="capacitate" type="xs:integer"/>
+														</xs:sequence>
+													</xs:complexType>
+												</xs:element>
+												<xs:element name="arbitru" minOccurs="1" maxOccurs="1">
+													<xs:complexType>
+														<xs:sequence>
+															<xs:element name="nume_arbitru">
+															<xs:simpleType> 
+																<xs:restriction base="xs:string"> 
+																	<xs:whiteSpace value="preserve"/> 
+																</xs:restriction> 
+															</xs:simpleType>
+															</xs:element>
+														</xs:sequence>
+													</xs:complexType>
+												</xs:element>
+												<xs:element name="scor" minOccurs="1" maxOccurs="1">
+													<xs:complexType>
+														<xs:attribute name="val" type="xs:string" use="required"/>
+													</xs:complexType>
+												</xs:element>
+											</xs:sequence>
+											<xs:attribute name="Numar_Meci" type="xs:string" use="required"/>
+										</xs:complexType>
+									</xs:element>
+								</xs:sequence>
+								<xs:attribute name="Nume_Grupa" type="xs:string" use="required"/>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+					<xs:attribute name="AN" type="xs:integer" use="required"/>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+</xs:schema>

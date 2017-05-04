@@ -1,0 +1,36 @@
+c:\users\ioana\documents\visual studio 2015\Projects\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.exe.config
+c:\users\ioana\documents\visual studio 2015\Projects\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.exe
+c:\users\ioana\documents\visual studio 2015\Projects\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.pdb
+c:\users\ioana\documents\visual studio 2015\Projects\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.csprojResolveAssemblyReference.cache
+c:\users\ioana\documents\visual studio 2015\Projects\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Form1.resources
+c:\users\ioana\documents\visual studio 2015\Projects\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Form2.resources
+c:\users\ioana\documents\visual studio 2015\Projects\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Properties.Resources.resources
+c:\users\ioana\documents\visual studio 2015\Projects\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.csproj.GenerateResource.Cache
+c:\users\ioana\documents\visual studio 2015\Projects\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.exe
+c:\users\ioana\documents\visual studio 2015\Projects\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.pdb
+C:\Users\ioana\Documents\Visual Studio 2015\Projects\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Form3.resources
+E:\FACULTATE AN IV\XML\PROIECT\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.exe.config
+E:\FACULTATE AN IV\XML\PROIECT\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.exe
+E:\FACULTATE AN IV\XML\PROIECT\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.pdb
+E:\FACULTATE AN IV\XML\PROIECT\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.exe
+E:\FACULTATE AN IV\XML\PROIECT\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.pdb
+E:\FACULTATE AN IV\XML\PROIECT\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.csprojResolveAssemblyReference.cache
+E:\FACULTATE AN IV\XML\PROIECT\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Form1.resources
+E:\FACULTATE AN IV\XML\PROIECT\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Form2.resources
+E:\FACULTATE AN IV\XML\PROIECT\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Form3.resources
+E:\FACULTATE AN IV\XML\PROIECT\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Properties.Resources.resources
+E:\FACULTATE AN IV\XML\PROIECT\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.csproj.GenerateResource.Cache
+C:\Users\Iuliana\Downloads\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.exe.config
+C:\Users\Iuliana\Downloads\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.exe
+C:\Users\Iuliana\Downloads\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.pdb
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.exe.config
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.exe
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.pdb
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.exe
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.pdb
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.csprojResolveAssemblyReference.cache
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Form1.resources
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Form2.resources
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Form3.resources
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Properties.Resources.resources
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.csproj.GenerateResource.Cache
