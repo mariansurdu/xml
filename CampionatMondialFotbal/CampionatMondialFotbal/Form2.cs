@@ -35,8 +35,8 @@ namespace PrestareServiciiDomiciliu
                 an = elemList[i].Attributes["AN"].Value;
                 tara_gazda = elemList[i].ChildNodes[i].InnerText;
             }
-            label2.Text = an;  //anul se afiseaza in label2
-            label4.Text = tara_gazda; // numele tarii se afiseaza in label 4
+           // label2.Text = an;  //anul se afiseaza in label2
+           // label4.Text = tara_gazda; // numele tarii se afiseaza in label 4
 
             dataGridView1.BackgroundColor = Color.White;
             dataGridView1.BorderStyle = BorderStyle.None;
@@ -68,7 +68,7 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
             dataGridView1.ColumnCount = 1;
-            dataGridView1.Columns[0].Name = "Echipa";
+            dataGridView1.Columns[0].Name = "Membrii echipei de curatenie";
 
             CautaEchipe();
 
@@ -86,7 +86,7 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
             dataGridView1.ColumnCount = 1;
-            dataGridView1.Columns[0].Name = "Echipa";
+            dataGridView1.Columns[0].Name = "Membrii echipei de coafura";
 
             CautaEchipe();
 
@@ -105,11 +105,11 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
             dataGridView1.ColumnCount = 1;
-            dataGridView1.Columns[0].Name = "Echipa";
+            dataGridView1.Columns[0].Name = "Membrii echipa amenajari interioare";
 
             CautaEchipe();
 
-            for (int i = 24; i < 28; i++)
+            for (int i = 17; i < 22; i++)
             {
                 dataGridView1.Rows.Add(nume[i]);
             }
@@ -123,11 +123,11 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
             dataGridView1.ColumnCount = 1;
-            dataGridView1.Columns[0].Name = "Echipa";
+            dataGridView1.Columns[0].Name = "Membrii echipa salon";
 
             CautaEchipe();
 
-            for (int i = 40; i < NrEchipe; i++)
+            for (int i = 22; i < NrEchipe; i++)
             {
                 dataGridView1.Rows.Add(nume[i]);
             }

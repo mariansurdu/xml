@@ -6,14 +6,14 @@ xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
 xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 	<campionat AN = "2014">
 		<tara_gazda>
-			<denumire>Brazilia</denumire>
+			<denumire>...</denumire>
 		</tara_gazda>
 		<grupa Nume_Grupa = "A">
 			<meci Numar_Meci = "1">
 				<echipa>
-					<nume_echipa>Brazilia</nume_echipa>
+					<nume_echipa>Curatenie1</nume_echipa>
 					<jucator>
-						<nume_jucator>Jefferson</nume_jucator>
+						<nume_jucator>Ion Ion</nume_jucator>
 						<numar>1</numar>
 						<pozitie>Portar</pozitie>
 					</jucator>
@@ -73,7 +73,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 					</antrenor>
 				</echipa>
 				<echipa>
-					<nume_echipa>Croatia</nume_echipa>
+					<nume_echipa>Best Cleaning</nume_echipa>
 					<jucator>
 						<nume_jucator>Ivan Vargic</nume_jucator>
 						<numar>1</numar>
@@ -147,7 +147,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			
 			<meci Numar_Meci="2">
 				<echipa>
-					<nume_echipa>Mexic</nume_echipa>
+					<nume_echipa>Cleaning safe</nume_echipa>
 					<jucator>
 						<nume_jucator>Jose_Corona</nume_jucator>
 						<numar>1</numar>
@@ -209,7 +209,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 					</antrenor>
 				</echipa>
 				<echipa>
-					<nume_echipa>Camerun</nume_echipa>
+					<nume_echipa>Cleaning now!</nume_echipa>
 					<jucator>
 						<nume_jucator>Charles_Itandje</nume_jucator>
 						<numar>1</numar>
@@ -283,7 +283,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			
 			<meci Numar_Meci="3">
 				<echipa>
-					<nume_echipa>Brazilia</nume_echipa>
+					<nume_echipa>Cleaning good</nume_echipa>
 					<jucator>
 						<nume_jucator>Jefferson</nume_jucator>
 						<numar>1</numar>
@@ -345,7 +345,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 					</antrenor>
 				</echipa>
 				<echipa>
-					<nume_echipa>Mexic</nume_echipa>
+					<nume_echipa>Cleaning now</nume_echipa>
 					<jucator>
 						<nume_jucator> Jose_Corona</nume_jucator>
 						<numar>1</numar>
@@ -418,7 +418,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			</meci>
 			<meci Numar_Meci="4">
 				<echipa>
-					<nume_echipa>Camerun</nume_echipa>
+					<nume_echipa>Cleaning now</nume_echipa>
 					<jucator>
 						<nume_jucator>Charles_Itandje</nume_jucator>
 						<numar>1</numar>
@@ -480,7 +480,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 					</antrenor>
 				</echipa>
 				<echipa>
-					<nume_echipa>Croatia</nume_echipa>
+					<nume_echipa>Safe clean</nume_echipa>
 					<jucator>
 						<nume_jucator>Ivan_Vargic</nume_jucator>
 						<numar>1</numar>
@@ -552,10 +552,10 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			</meci>
 		</grupa>
 		
-		<grupa Nume_Grupa = "B">
+    <grupa Nume_Grupa = "B">
 			<meci Numar_Meci="1">
 				<echipa>
-					<nume_echipa>Spania</nume_echipa>
+					<nume_echipa>Hairdress</nume_echipa>
 					<jucator>
 						<nume_jucator>Sergio_Rico</nume_jucator>
 						<numar>1</numar>
@@ -616,7 +616,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 					</antrenor>
 				</echipa>
 				<echipa>
-					<nume_echipa>Olanda</nume_echipa>
+					<nume_echipa>Hair and massage</nume_echipa>
 					<jucator>
 						<nume_jucator>Jeroen_Zoet</nume_jucator>
 						<numar>1</numar>
@@ -690,7 +690,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			
 			<meci Numar_Meci="2">
 				<echipa>
-					<nume_echipa>Chile</nume_echipa>
+					<nume_echipa>Hair and body</nume_echipa>
 					<jucator>
 						<nume_jucator>Claudio_Bravo</nume_jucator>
 						<numar>1</numar>
@@ -752,7 +752,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 					</antrenor>
 				</echipa>
 				<echipa>
-					<nume_echipa>Australia</nume_echipa>
+					<nume_echipa>Hair and more</nume_echipa>
 					<jucator>
 						<nume_jucator>Mathew_Ryan</nume_jucator>
 						<numar>1</numar>
@@ -826,7 +826,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			
 			<meci Numar_Meci="3">
 				<echipa>
-					<nume_echipa>Australia</nume_echipa>
+					<nume_echipa>Hair safe</nume_echipa>
 					<jucator>
 						<nume_jucator>Mathew_Ryan</nume_jucator>
 						<numar>1</numar>
@@ -888,7 +888,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 					</antrenor>				
 				</echipa>				
 				<echipa>
-					<nume_echipa>Olanda</nume_echipa>
+					<nume_echipa>Hair and more</nume_echipa>
 					<jucator>
 						<nume_jucator>Jeroen_Zoet</nume_jucator>
 						<numar>1</numar>
@@ -961,7 +961,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			</meci>			
 			<meci Numar_Meci="4">
 				<echipa>
-					<nume_echipa>Spania</nume_echipa>
+					<nume_echipa>Hairdress</nume_echipa>
 					
 					<jucator>
 						<nume_jucator>Sergio_Rico</nume_jucator>
@@ -1024,7 +1024,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 					</antrenor>
 				</echipa>				
 				<echipa>
-					<nume_echipa>Chile</nume_echipa>
+					<nume_echipa>Hair safe</nume_echipa>
 					<jucator>
 						<nume_jucator>Claudio_Bravo</nume_jucator>
 						<numar>1</numar>
@@ -1095,289 +1095,14 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 				</arbitru>				
 				<scor val = "0-2"/>
 			</meci>			
-			<meci Numar_Meci="5">
-				<echipa>
-					<nume_echipa>Australia</nume_echipa>
-					<jucator>
-						<nume_jucator>Mathew_Ryan</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Ivan_Franjic</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Alex_Wilkinson</nume_jucator>
-						<numar>22</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Matthew_Spiranovic</nume_jucator>
-						<numar>6</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Dany_Nounkeu</nume_jucator>
-						<numar>6</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jason_Davidson</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mile_Jedinak</nume_jucator>
-						<numar>15</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mark_Milligan</nume_jucator>
-						<numar>5</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mathew_Leckie</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Tommy Oar</nume_jucator>
-						<numar>11</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Tim_Cahill</nume_jucator>
-						<numar>20</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Ange_Postecoglou</nume_antrenor>
-					</antrenor>					
-				</echipa>				
-				<echipa>
-					<nume_echipa>Spania</nume_echipa>
-					<jucator>
-						<nume_jucator>Sergio_Rico</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Sergio_Ramos</nume_jucator>
-						<numar>15</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gerard_Piqué</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jordi_Alba</nume_jucator>
-						<numar>18</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juanfran</nume_jucator>
-						<numar>16</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>David_Silva</nume_jucator>
-						<numar>21</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juan_Mata</nume_jucator>
-						<numar>13</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Isco</nume_jucator>
-						<numar>22</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Thiago</nume_jucator>
-						<numar>14</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Pedro</nume_jucator>
-						<numar>11</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Diego_Costa</nume_jucator>
-						<numar>19</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Vicente_del_Bosque</nume_antrenor>
-					</antrenor>
-				</echipa>				
-				<stadion>
-					<nume_stadion>Arena_da_Baixada</nume_stadion>
-					<oras>Curitiba</oras>
-					<capacitate>51300</capacitate>
-				</stadion>				
-				<arbitru>
-					<nume_arbitru>Nawaf_Shukralla</nume_arbitru>
-				</arbitru>				
-				<scor val = "0-3"/>
-			</meci>
 			
-			<meci Numar_Meci="6">
-				<echipa>
-					<nume_echipa>Olanda</nume_echipa>
-					<jucator>
-						<nume_jucator>Jeroen_Zoet</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Daley_Blind</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Erik_Pieters</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Kenny_Tete</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Terence_Kongolo</nume_jucator>
-						<numar>6</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Georginio_Wijnaldum</nume_jucator>
-						<numar>5</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jordy_Clasie</nume_jucator>
-						<numar>11</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marko_Vejinovic</nume_jucator>
-						<numar>19</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Wesley_Sneijder</nume_jucator>
-						<numar>21</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Memphis_Depay</nume_jucator>
-						<numar>10</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Arjen_Robben</nume_jucator>
-						<numar>20</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Guus_Hiddink</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<echipa>
-					<nume_echipa>Chile</nume_echipa>
-					
-					<jucator>
-						<nume_jucator>Claudio_Bravo</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mauricio_Isla</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gary_Medel</nume_jucator>
-						<numar>17</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gonzalo_Jara</nume_jucator>
-						<numar>18</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Eugenio_Mena</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Charles_Aranguiz</nume_jucator>
-						<numar>20</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marcelo_Diaz</nume_jucator>
-						<numar>21</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Arturo Vidal</nume_jucator>
-						<numar>8</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Alexis_Sánchez</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jorge_Valdivia</nume_jucator>
-						<numar>10</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Eduardo_Vargas</nume_jucator>
-						<numar>11</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Jorge_Sampaoli</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<stadion>
-					<nume_stadion>Arena_de_Sao_Paulo</nume_stadion>
-					<oras>Sao_Paulo</oras>
-					<capacitate>41116</capacitate>
-				</stadion>
-				
-				<arbitru>
-					<nume_arbitru>Nicola_Rizzoli</nume_arbitru>
-				</arbitru>
-				
-				<scor val = "2-0"/>
-			</meci>
 			
 		</grupa>
 		
 		<grupa Nume_Grupa = "C">
 			<meci Numar_Meci="1">
 				<echipa>
-					<nume_echipa>Columbia</nume_echipa>
+					<nume_echipa>Amenajari</nume_echipa>
 					<jucator>
 						<nume_jucator>David_Ospina</nume_jucator>
 						<numar>1</numar>
@@ -1440,7 +1165,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 				</echipa>
 				
 				<echipa>
-					<nume_echipa>Grecia</nume_echipa>
+					<nume_echipa>Zugravit</nume_echipa>
 					<jucator>
 						<nume_jucator>Orestis_Karnezis</nume_jucator>
 						<numar>1</numar>
@@ -1518,7 +1243,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			<meci Numar_Meci="2">
 				<echipa>
 				
-					<nume_echipa>Coasta de Fildes</nume_echipa>
+					<nume_echipa>Parchet si podele</nume_echipa>
 					
 					<jucator>
 						<nume_jucator>Boubacar_Barry</nume_jucator>
@@ -1583,7 +1308,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 				
 				<echipa>
 				
-					<nume_echipa>Japonia</nume_echipa>
+					<nume_echipa>Instalatie electrica</nume_echipa>
 					
 					<jucator>
 						<nume_jucator>Eiji_Kawashima</nume_jucator>
@@ -1662,7 +1387,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			<meci Numar_Meci="3">
 				<echipa>
 				
-					<nume_echipa>Columbia</nume_echipa>
+					<nume_echipa>Instalatii electrice</nume_echipa>
 					
 					<jucator>
 						<nume_jucator>David_Ospina</nume_jucator>
@@ -1728,7 +1453,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			
 				<echipa>
 				
-					<nume_echipa>Coasta_de_Fildes</nume_echipa>
+					<nume_echipa>Parchet si podele</nume_echipa>
 					
 					<jucator>
 						<nume_jucator>Boubacar_Barry</nume_jucator>
@@ -1804,437 +1529,13 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			
 			</meci>
 			
-			<meci Numar_Meci="4">
-				<echipa>
-					<nume_echipa>Japonia</nume_echipa>
-					
-					<jucator>
-						<nume_jucator>Eiji_Kawashima</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Atsuto_Uchida</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Maya_Yoshida</nume_jucator>
-						<numar>22</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Masato_Morishige</nume_jucator>
-						<numar>6</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Yuto_Nagatomo</nume_jucator>
-						<numar>5</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Hotaru_Yamaguchi</nume_jucator>
-						<numar>16</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Makoto_Hasebe</nume_jucator>
-						<numar>17</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Shinji_Okazaki</nume_jucator>
-						<numar>9</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Keisuke_Honda</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Shinji_Kagawa</nume_jucator>
-						<numar>10</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Yuya_Osako</nume_jucator>
-						<numar>18</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Alberto_Zaccheroni</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<echipa>
-					<nume_echipa>Grecia</nume_echipa>
-					<jucator>
-						<nume_jucator>Orestis_Karnezis</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Vasilis_Torosidis</nume_jucator>
-						<numar>15</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Kostas_Manolas</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Sokratis_Papastathopoulo</nume_jucator>
-						<numar>19</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jose_Holebas</nume_jucator>
-						<numar>20</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Kostas_Katsouranis</nume_jucator>
-						<numar>21</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Dimitris_Salpingidis</nume_jucator>
-						<numar>14</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Giorgos_Samaras</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Panagiotis_Kone</nume_jucator>
-						<numar>8</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Giannis_Maniatis</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Theofanis_Gekas</nume_jucator>
-						<numar>17</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Fernando_Santos</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<stadion>
-					<nume_stadion>Arena_das_Dunas</nume_stadion>
-					<oras>Natal</oras>
-					<capacitate>40160</capacitate>
-				</stadion>
-				
-				<arbitru>
-					<nume_arbitru>Joel_Aguilar</nume_arbitru>
-				</arbitru>
-				
-				<scor val = "0-0"/>
-			
-			</meci>
-			
-			<meci Numar_Meci="5">
-				<echipa>
-					<nume_echipa>Japonia</nume_echipa>
-					<jucator>
-						<nume_jucator>Eiji_Kawashima</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Atsuto_Uchida</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Maya_Yoshida</nume_jucator>
-						<numar>22</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Masato_Morishige</nume_jucator>
-						<numar>6</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Yuto_Nagatomo</nume_jucator>
-						<numar>5</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Hotaru_Yamaguchi</nume_jucator>
-						<numar>16</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Makoto_Hasebe</nume_jucator>
-						<numar>17</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Shinji_Okazaki</nume_jucator>
-						<numar>9</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Keisuke_Honda</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Shinji_Kagawa</nume_jucator>
-						<numar>10</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Yuya_Osako</nume_jucator>
-						<numar>18</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Alberto_Zaccheroni</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<echipa>
-					<nume_echipa>Columbia</nume_echipa>
-					<jucator>
-						<nume_jucator>David_Ospina</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juan_Camilo</nume_jucator>
-						<numar>18</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cristian_Zapata</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mario_Yepes</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Pablo_Armero</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juan_Guillermo</nume_jucator>
-						<numar>11</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Abel_Aguilar</nume_jucator>
-						<numar>8</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Carlos_Sanchez</nume_jucator>
-						<numar>6</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>James_Rodriguez</nume_jucator>
-						<numar>10</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Victor_Ibarbo</nume_jucator>
-						<numar>11</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Teofilo_Gutierrez</nume_jucator>
-						<numar>20</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Jose_Pekerman</nume_antrenor>
-					</antrenor>
-					
-				</echipa>
-				
-				<stadion>
-					<nume_stadion>Arena_Pantanal</nume_stadion>
-					<oras>Cuiaba</oras>
-					<capacitate>46360</capacitate>
-				</stadion>
-				
-				<arbitru>
-					<nume_arbitru>Pedro_Proenca</nume_arbitru>
-				</arbitru>
-				
-				<scor val = "1-4"/>
-				
-			</meci>
-			
-			<meci Numar_Meci="6">
-				<echipa>
-					<nume_echipa>Grecia</nume_echipa>
-					<jucator>
-						<nume_jucator>Orestis_Karnezis</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Vasilis_Torosidis</nume_jucator>
-						<numar>15</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Kostas_Manolas</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Sokratis_Papastathopoulo</nume_jucator>
-						<numar>19</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jose_Holebas</nume_jucator>
-						<numar>20</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Kostas_Katsouranis</nume_jucator>
-						<numar>21</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Dimitris_Salpingidis</nume_jucator>
-						<numar>14</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Giorgos_Samaras</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Panagiotis_Kone</nume_jucator>
-						<numar>8</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Giannis_Maniatis</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Theofanis_Gekas</nume_jucator>
-						<numar>17</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Fernando_Santos</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<echipa>
-					<nume_echipa>Coasta_de_Fildes</nume_echipa>
-					<jucator>
-						<nume_jucator>Boubacar_Barry</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juan_Camilo</nume_jucator>
-						<numar>18</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Serge_Aurier</nume_jucator>
-						<numar>17</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Didier_Zokora</nume_jucator>
-						<numar>5</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Sol_Bamba</nume_jucator>
-						<numar>22</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Arthur_Boka</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cheick_Tiote</nume_jucator>
-						<numar>9</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Serey_Die</nume_jucator>
-						<numar>20</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Yaya_Toure</nume_jucator>
-						<numar>19</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Salomon_Kalou</nume_jucator>
-						<numar>8</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Wilfried_Bony</nume_jucator>
-						<numar>12</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Sabri_Lamouchi</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<stadion>
-					<nume_stadion>Estadio_Castelao</nume_stadion>
-					<oras>Fortaleza</oras>
-					<capacitate>58360</capacitate>
-				</stadion>
-				
-				<arbitru>
-					<nume_arbitru>Carlos_Vera</nume_arbitru>
-				</arbitru>
-				
-				<scor val = "2-1"/>
-			
-			</meci>
 		
 		</grupa>
 		
 		<grupa Nume_Grupa = "D">
 			<meci Numar_Meci="1">
 				<echipa>
-					<nume_echipa>Uruguay</nume_echipa>
+					<nume_echipa>Manichiura</nume_echipa>
 					<jucator>
 						<nume_jucator>Fernando Muslera</nume_jucator>
 						<numar>1</numar>
@@ -2297,7 +1598,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 				</echipa>
 				
 				<echipa>
-					<nume_echipa>Costa Rica</nume_echipa>
+					<nume_echipa>Pedichiura</nume_echipa>
 					<jucator>
 						<nume_jucator>Keylor Navas</nume_jucator>
 						<numar>1</numar>
@@ -2375,7 +1676,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			
 			<meci Numar_Meci="2">
 				<echipa>
-					<nume_echipa>Anglia</nume_echipa>
+					<nume_echipa>Masaj</nume_echipa>
 					<jucator>
 						<nume_jucator>Joe Hart</nume_jucator>
 						<numar>1</numar>
@@ -2438,7 +1739,7 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 				</echipa>
 				
 				<echipa>
-					<nume_echipa>Italia</nume_echipa>
+					<nume_echipa>Relaxare..manichiura..pedichiura</nume_echipa>
 					<jucator>
 						<nume_jucator>Salvatore Sirigu</nume_jucator>
 						<numar>1</numar>
@@ -2513,568 +1814,6 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			
 			</meci>
 			
-			<meci Numar_Meci="3">
-				<echipa>
-					<nume_echipa>Uruguay</nume_echipa>
-					<jucator>
-						<nume_jucator>Fernando Muslera</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Maxi Pereira</nume_jucator>
-						<numar>16</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Diego Lugano</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Diego Godin</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Martin Caceres</nume_jucator>
-						<numar>22</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Christian Stuani</nume_jucator>
-						<numar>11</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Egidio Arevalo Rios</nume_jucator>
-						<numar>17</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Walter Gargano</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cristian Rodriguez</nume_jucator>
-						<numar>8</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Diego Forlan</nume_jucator>
-						<numar>10</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Edinson Cavani</nume_jucator>
-						<numar>21</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Oscar Tabarez</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<echipa>
-					<nume_echipa>Anglia</nume_echipa>
-					<jucator>
-						<nume_jucator>Joe Hart</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Glen Johnson</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gary Cahill</nume_jucator>
-						<numar>6</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Phil Jagielka</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Leighton Baines</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Steven Gerrard</nume_jucator>
-						<numar>16</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jordan Henderson</nume_jucator>
-						<numar>15</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Danny Welbeck</nume_jucator>
-						<numar>5</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Raheem Sterling</nume_jucator>
-						<numar>17</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Wayne Rooney</nume_jucator>
-						<numar>10</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Daniel Sturridge</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Roy Hodgson</nume_antrenor>
-					</antrenor>
-				</echipa>
-				<stadion>
-					<nume_stadion>Arena Corinthians</nume_stadion>
-					<oras>Sao Paulo</oras>
-					<capacitate>63800</capacitate>
-				</stadion>
-				
-				<arbitru>
-					<nume_arbitru>Carlos Velasco Carballo</nume_arbitru>
-				</arbitru>
-				
-				<scor val = "2-1"/>
-			
-			</meci>
-			
-			<meci Numar_Meci="4">
-				<echipa>
-					<nume_echipa>Italia</nume_echipa>
-					<jucator>
-						<nume_jucator>Salvatore Sirigu</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Matteo Darmian</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Andrea Barzagli</nume_jucator>
-						<numar>15</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gabriel Paletta</nume_jucator>
-						<numar>20</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mario Balotelli</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Giorgio Chiellini</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Claudio Marchisio</nume_jucator>
-						<numar>8</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Daniele De Rossi</nume_jucator>
-						<numar>16</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marco Verratti</nume_jucator>
-						<numar>23</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Andrea Pirlo</nume_jucator>
-						<numar>21</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Antonio Candreva</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Cesare Prandelli</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<echipa>
-					<nume_echipa>Costa Rica</nume_echipa>
-					<jucator>
-						<nume_jucator>Keylor Navas</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Oscar Duarte</nume_jucator>
-						<numar>6</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Giancarlo Gonzalez</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Joel Campbell</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Michael Umana</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cristian Gamboa</nume_jucator>
-						<numar>16</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Junior Diaz</nume_jucator>
-						<numar>15</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Celso Borges</nume_jucator>
-						<numar>5</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Yeltsin Tejeda</nume_jucator>
-						<numar>17</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Bryan Ruiz</nume_jucator>
-						<numar>10</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Christian Bolanos</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Jorge Luis Pinto</nume_antrenor>
-					</antrenor>
-				</echipa>
-				<stadion>
-					<nume_stadion>Arena Pernambuco</nume_stadion>
-					<oras>Recife</oras>
-					<capacitate>40360</capacitate>
-				</stadion>
-				
-				<arbitru>
-					<nume_arbitru>Enrique Osses</nume_arbitru>
-				</arbitru>
-				
-				<scor val = "0-1"/>
-			
-			</meci>
-			
-			<meci Numar_Meci="5">
-				<echipa>
-					<nume_echipa>Italia</nume_echipa>
-					<jucator>
-						<nume_jucator>Salvatore Sirigu</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Matteo Darmian</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Andrea Barzagli</nume_jucator>
-						<numar>15</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gabriel Paletta</nume_jucator>
-						<numar>20</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mario Balotelli</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Giorgio Chiellini</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Claudio Marchisio</nume_jucator>
-						<numar>8</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Daniele De Rossi</nume_jucator>
-						<numar>16</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marco Verratti</nume_jucator>
-						<numar>23</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Andrea Pirlo</nume_jucator>
-						<numar>21</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Antonio Candreva</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Cesare Prandelli</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<echipa>
-					<nume_echipa>Uruguay</nume_echipa>
-					<jucator>
-						<nume_jucator>Fernando Muslera</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Maxi Pereira</nume_jucator>
-						<numar>16</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Diego Lugano</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Diego Godin</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Martin Caceres</nume_jucator>
-						<numar>22</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Christian Stuani</nume_jucator>
-						<numar>11</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Egidio Arevalo Rios</nume_jucator>
-						<numar>17</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Walter Gargano</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cristian Rodriguez</nume_jucator>
-						<numar>8</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Diego Forlan</nume_jucator>
-						<numar>10</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Edinson Cavani</nume_jucator>
-						<numar>21</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Oscar Tabarez</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<stadion>
-					<nume_stadion>Arena das Dunas</nume_stadion>
-					<oras>Natal</oras>
-					<capacitate>39760</capacitate>
-				</stadion>
-				
-				<arbitru>
-					<nume_arbitru>Marco Rodriguez</nume_arbitru>
-				</arbitru>
-				
-				<scor val = "0-1"/>
-				
-			
-			</meci>
-			
-			<meci Numar_Meci="6">
-				<echipa>
-					<nume_echipa>Costa Rica</nume_echipa>
-					<jucator>
-						<nume_jucator>Keylor Navas</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Oscar Duarte</nume_jucator>
-						<numar>6</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Giancarlo Gonzalez</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Joel Campbell</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Michael Umana</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cristian Gamboa</nume_jucator>
-						<numar>16</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Junior Diaz</nume_jucator>
-						<numar>15</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Celso Borges</nume_jucator>
-						<numar>5</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Yeltsin Tejeda</nume_jucator>
-						<numar>17</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Bryan Ruiz</nume_jucator>
-						<numar>10</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Christian Bolanos</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Jorge Luis Pinto</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<echipa>
-					<nume_echipa>Anglia</nume_echipa>
-					<jucator>
-						<nume_jucator>Joe Hart</nume_jucator>
-						<numar>1</numar>
-						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Glen Johnson</nume_jucator>
-						<numar>2</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gary Cahill</nume_jucator>
-						<numar>6</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Phil Jagielka</nume_jucator>
-						<numar>3</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Leighton Baines</nume_jucator>
-						<numar>4</numar>
-						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Steven Gerrard</nume_jucator>
-						<numar>16</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jordan Henderson</nume_jucator>
-						<numar>15</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Danny Welbeck</nume_jucator>
-						<numar>5</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Raheem Sterling</nume_jucator>
-						<numar>17</numar>
-						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Wayne Rooney</nume_jucator>
-						<numar>10</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Daniel Sturridge</nume_jucator>
-						<numar>7</numar>
-						<pozitie>Atacant</pozitie>
-					</jucator>
-					
-					<antrenor>
-						<nume_antrenor>Roy Hodgson</nume_antrenor>
-					</antrenor>
-				</echipa>
-				
-				<stadion>
-					<nume_stadion>Estadio Mineirao</nume_stadion>
-					<oras>Belo Horizonte</oras>
-					<capacitate>57760</capacitate>
-				</stadion>
-				
-				<arbitru>
-					<nume_arbitru>Djamel Haimoudi</nume_arbitru>
-				</arbitru>
-				
-				<scor val = "0-0"/>
-			
-			</meci>
 		
 		</grupa>
 		
