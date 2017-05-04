@@ -6,7 +6,7 @@ using System.Xml;
 using System.Xml.XPath;
 using System.Xml.Xsl;
 
-namespace CampionatMondialFotbal
+namespace PrestareServiciiDomiciliu
 {
     public partial class Form1 : Form
     {

@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Xml;
 using System.Xml.Linq;
 
-namespace CampionatMondialFotbal
+namespace PrestareServiciiDomiciliu
 {
     public partial class Form3 : Form
     {

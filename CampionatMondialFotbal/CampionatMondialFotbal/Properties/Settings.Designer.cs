@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CampionatMondialFotbal.Properties
+namespace PrestareServiciiDomiciliu.Properties
 {
 
 

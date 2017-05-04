@@ -34,3 +34,4 @@ C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\Camp
 C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Form3.resources
 C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Properties.Resources.resources
 C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.csproj.GenerateResource.Cache
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\PrestareServiciiDomiciliu.Form1.resources
