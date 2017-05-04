@@ -1,0 +1,11 @@
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\PrestareServiciiDomiciliu.Form1.resources
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\PrestareServiciiDomiciliu.Form2.resources
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\PrestareServiciiDomiciliu.Form3.resources
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.Properties.Resources.resources
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\PrestareServiciiDomiciliu.csproj.GenerateResource.Cache
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.exe
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\CampionatMondialFotbal.pdb
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.exe.config
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.exe
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\bin\Debug\CampionatMondialFotbal.pdb
+C:\Users\marian.surdu\Desktop\CampionatMondialFotbal\CampionatMondialFotbal\CampionatMondialFotbal\obj\Debug\PrestareServiciiDomiciliu.csprojResolveAssemblyReference.cache
