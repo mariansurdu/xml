@@ -5,12 +5,9 @@
 	<html>
 	<body>
 	
-	<h1>Campionate Mondiale Fotbal</h1>
-	<h2><xsl:text>Campionat Mondial</xsl:text></h2>
-		<p>Anul : <xsl:value-of select="campionate/campionat/@AN"/></p>
-		<br/>
-		<p>Tara Gazda : <xsl:value-of select="campionate/campionat/tara_gazda"/></p>
-		<br/>
+	<h1>Companie prestare servicii la domiciliu</h1>
+	<h2><xsl:text>Bucuresti</xsl:text></h2>
+	
 		
 		<xsl:for-each select="campionate/campionat/grupa">
 		<p>Grupa <xsl:value-of select="@Nume_Grupa"/></p>
@@ -18,10 +15,10 @@
 		<table border="1">
 			<tr bgcolor="#E4DEE3">
               <th style="text-align:center;width:15%">Echipa</th>
-              <th style="text-align:center;width:15%">Echipa</th>
+              <th style="text-align:center;width:15%">Echipa de urgenta</th>
               <th style="text-align:center;width:15%">Scor</th>
-              <th style="text-align:center">Arbitru</th>
-			  <th style="text-align:center">Stadion</th>
+              <th style="text-align:center">Persoana de contact</th>
+			  <th style="text-align:center">Adresa</th>
 			</tr>
 		  
 		<tr>
@@ -29,9 +26,9 @@
 				<td><xsl:value-of select="nume_echipa"/></td>
 			</xsl:for-each>
 			<xsl:for-each select="meci[@Numar_Meci='1']">
-				<td><xsl:value-of select="scor/@val"/></td>
-				<td><xsl:value-of select="arbitru/nume_arbitru"/></td>
-				<td><xsl:value-of select="stadion/nume_stadion"/></td>
+				<td><xsl:value-of select="data_assign/@val"/></td>
+				<td><xsl:value-of select="persoana_de_contact/nume_persoana_de_contact"/></td>
+				<td><xsl:value-of select="locatie/adresa"/></td>
 			</xsl:for-each>
 		</tr> 
 		
@@ -40,9 +37,15 @@
 				<td><xsl:value-of select="nume_echipa"/></td>
 			</xsl:for-each>
 			<xsl:for-each select="meci[@Numar_Meci='2']">
-				<td><xsl:value-of select="scor/@val"/></td>
-				<td><xsl:value-of select="arbitru/nume_arbitru"/></td>
-				<td><xsl:value-of select="stadion/nume_stadion"/></td>
+        <td>
+          <xsl:value-of select="data_assign/@val"/>
+        </td>
+        <td>
+          <xsl:value-of select="persoana_de_contact/nume_persoana_de_contact"/>
+        </td>
+        <td>
+          <xsl:value-of select="locatie/adresa"/>
+        </td>
 			</xsl:for-each>
 	    </tr>
 		
@@ -51,9 +54,15 @@
 				<td><xsl:value-of select="nume_echipa"/></td>
 			</xsl:for-each>
 			<xsl:for-each select="meci[@Numar_Meci='3']">
-				<td><xsl:value-of select="scor/@val"/></td>
-				<td><xsl:value-of select="arbitru/nume_arbitru"/></td>
-				<td><xsl:value-of select="stadion/nume_stadion"/></td>
+        <td>
+          <xsl:value-of select="data_assign/@val"/>
+        </td>
+        <td>
+          <xsl:value-of select="persoana_de_contact/nume_persoana_de_contact"/>
+        </td>
+        <td>
+          <xsl:value-of select="locatie/adresa"/>
+        </td>
 			</xsl:for-each>
 	    </tr>
 		
@@ -62,9 +71,15 @@
 				<td><xsl:value-of select="nume_echipa"/></td>
 			</xsl:for-each>
 			<xsl:for-each select="meci[@Numar_Meci='4']">
-				<td><xsl:value-of select="scor/@val"/></td>
-				<td><xsl:value-of select="arbitru/nume_arbitru"/></td>
-				<td><xsl:value-of select="stadion/nume_stadion"/></td>
+        <td>
+          <xsl:value-of select="data_assign/@val"/>
+        </td>
+        <td>
+          <xsl:value-of select="persoana_de_contact/nume_persoana_de_contact"/>
+        </td>
+        <td>
+          <xsl:value-of select="locatie/adresa"/>
+        </td>
 			</xsl:for-each>
 	    </tr>
 		</table>
