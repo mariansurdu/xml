@@ -15,7 +15,7 @@ namespace PrestareServiciiDomiciliu
     public partial class Form2 : Form
     {
         private string an;
-        private string tara_gazda;
+        private string aux;
 
         private int NrEchipe;
 
@@ -33,10 +33,10 @@ namespace PrestareServiciiDomiciliu
             for (int i = 0; i < elemList.Count; i++)
             {
                 an = elemList[i].Attributes["AN"].Value;
-                tara_gazda = elemList[i].ChildNodes[i].InnerText;
+                aux = elemList[i].ChildNodes[i].InnerText;
             }
            // label2.Text = an;  //anul se afiseaza in label2
-           // label4.Text = tara_gazda; // numele tarii se afiseaza in label 4
+           // label4.Text = aux; // numele tarii se afiseaza in label 4
 
             dataGridView1.BackgroundColor = Color.White;
             dataGridView1.BorderStyle = BorderStyle.None;

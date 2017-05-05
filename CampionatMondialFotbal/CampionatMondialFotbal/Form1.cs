@@ -32,11 +32,11 @@ namespace PrestareServiciiDomiciliu
 
         private void button3_Click(object sender, EventArgs e) // butonul "Vezi Detalii Campionat" ce permite afisarea XSL-ului
         {
-            XslTransform myXslTransform;  //se declara  XslTransform
+            XslTransform xslTransformer;  //se declara  XslTransform
 
-            myXslTransform = new XslTransform();  // se initializeaza
-            myXslTransform.Load("campionat.xslt.xsl"); //se incarca documentul .xsl
-            myXslTransform.Transform("Campionat.xml.xml", "rezultat.html"); 
+            xslTransformer = new XslTransform();  // se initializeaza
+            xslTransformer.Load("campionat.xslt.xsl"); //se incarca documentul .xsl
+            xslTransformer.Transform("Campionat.xml.xml", "rezultat.html"); 
             string dir = Directory.GetCurrentDirectory();
             Debug.WriteLine("Locatie:  " + dir);
             Uri link = new Uri(String.Format("file:///{0}/rezultat.html", dir));

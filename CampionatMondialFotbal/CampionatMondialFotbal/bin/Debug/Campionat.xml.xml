@@ -9,1445 +9,1445 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 			<denumire>...</denumire>
 		</tara_gazda>
 		<grupa Nume_Grupa = "A">
-			<meci Numar_Meci = "1">
+			<assignment asg_num = "1">
 				<echipa>
 					<nume_echipa>Curatenie1</nume_echipa>
-					<jucator>
-						<nume_jucator>Ion Ion</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Ion Ion</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Daniel_Alves</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Daniel_Alves</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Miranda </nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Miranda </nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>David_Luiz</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>David_Luiz</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Filipe_Luís</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Filipe_Luís</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Fernandinho</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Fernandinho</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Roberto_Firmino</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Roberto_Firmino</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Willian</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Willian</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Philippe_Coutinho</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Philippe_Coutinho</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Neymar</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Neymar</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Robinho</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Robinho</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Dunga</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Dunga</nume_sofer>
+					</sofer>
 				</echipa>
 				<echipa>
 					<nume_echipa>Best Cleaning</nume_echipa>
-					<jucator>
-						<nume_jucator>Ivan Vargic</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Ivan Vargic</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Sime_Vrsaljko</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Sime_Vrsaljko</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Goran_Milovic</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Goran_Milovic</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Darjo_Srna</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Darjo_Srna</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marko_Leskovic</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Marko_Leskovic</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Ivan_Perisic</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Ivan_Perisic</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Ivan_Mocinic</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Ivan_Mocinic</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marcelo_Brozović</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Marcelo_Brozović</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Milan_Badelj</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Milan_Badelj</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mario_Mandzukic</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mario_Mandzukic</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Ivica_Olic</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Ivica_Olic</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Niko_Kovac</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Niko_Kovac</nume_sofer>
+					</sofer>
 				</echipa>
-				<stadion>
-					<nume_stadion>Arena de Sao Paulo</nume_stadion>
+				<locatie>
+					<adresa>Republica,Faur 12</adresa>
 					<oras>Sao_Paulo</oras>
 					<capacitate>46116</capacitate>
-				</stadion>
-				<arbitru>
-					<nume_arbitru>Sandro_Ricci</nume_arbitru>
-				</arbitru>
-				<scor val = "3-1"/>
-			</meci>
+				</locatie>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Sandra Gheorghe</nume_persoana_de_contact>
+				</persoana_de_contact>
+				<data_assign val = "21/03/2017"/>
+			</assignment>
 			
-			<meci Numar_Meci="2">
+			<assignment asg_num="2">
 				<echipa>
 					<nume_echipa>Cleaning safe</nume_echipa>
-					<jucator>
-						<nume_jucator>Jose_Corona</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Jose_Corona</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Paul_Aguilar</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Paul_Aguilar</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Y_Corona </nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Y_Corona </nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>R_Marquez</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>R_Marquez</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Filipe_Luis</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Filipe_Luis</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>D_Reyes</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>D_Reyes</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>J_Aquino</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>J_Aquino</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Ramirez</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Ramirez</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Pineda</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Pineda</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Pizarro</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Pizarro</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jimenez</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jimenez</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Miguel_Herrera</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Miguel_Herrera</nume_sofer>
+					</sofer>
 				</echipa>
 				<echipa>
 					<nume_echipa>Cleaning now!</nume_echipa>
-					<jucator>
-						<nume_jucator>Charles_Itandje</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Charles_Itandje</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Benoit_Assou_Ekotto</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Benoit_Assou_Ekotto</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Nicolas_Koulou</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Nicolas_Koulou</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cedric_Djeugoue</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Cedric_Djeugoue</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Dany_Nounkeu</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Dany_Nounkeu</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jean_Makoun</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jean_Makoun</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Eyong_Enoh</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Eyong_Enoh</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Edgar_Salli</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Edgar_Salli</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Joel_Matip</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Joel_Matip</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Benjamin_Moukandjo</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Benjamin_Moukandjo</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Pierre_Webo</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Pierre_Webo</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Volker_Finke</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Volker_Finke</nume_sofer>
+					</sofer>
 				</echipa>
-				<stadion>
-					<nume_stadion>Arena_das_Dunas</nume_stadion>
+				<locatie>
+					<adresa>Bucuresti Ploiesti 44-46</adresa>
 					<oras>Natal</oras>
 					<capacitate>46116</capacitate>
-				</stadion>
-				<arbitru>
-					<nume_arbitru>Wilmar_Roldán</nume_arbitru>
-				</arbitru>
-				<scor val = "1-0"/>
-			</meci>
+				</locatie>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Ionut Marian</nume_persoana_de_contact>
+				</persoana_de_contact>
+				<data_assign val = "22/04/2017"/>
+			</assignment>
 			
-			<meci Numar_Meci="3">
+			<assignment asg_num="3">
 				<echipa>
 					<nume_echipa>Cleaning good</nume_echipa>
-					<jucator>
-						<nume_jucator>Jefferson</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Jefferson</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Daniel_Alves</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Daniel_Alves</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Miranda </nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Miranda </nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>David_Luiz</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>David_Luiz</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Filipe_Luis</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Filipe_Luis</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Fernandinho</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Fernandinho</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Roberto_Firmino</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Roberto_Firmino</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Willian</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Willian</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Philippe_Coutinho</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Philippe_Coutinho</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Neymar</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Neymar</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Robinho</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Robinho</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Dunga</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Dunga</nume_sofer>
+					</sofer>
 				</echipa>
 				<echipa>
 					<nume_echipa>Cleaning now</nume_echipa>
-					<jucator>
-						<nume_jucator> Jose_Corona</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru> Jose_Corona</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Paul_Aguilar</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Paul_Aguilar</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Y_Corona </nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Y_Corona </nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>R_Marquez</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>R_Marquez</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Filipe_Luis</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Filipe_Luis</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>D_Reyes</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>D_Reyes</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>J_Aquino</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>J_Aquino</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Ramirez</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Ramirez</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Pineda</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Pineda</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Pizarro</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Pizarro</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jimenez</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jimenez</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Miguel_Herrera</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Miguel_Herrera</nume_sofer>
+					</sofer>
 				</echipa>
-				<stadion>
-					<nume_stadion>Estadio_Castelao,</nume_stadion>
+				<locatie>
+					<adresa>Splaiul unirii 32</adresa>
 					<oras>Fortaleza</oras>
 					<capacitate>46116</capacitate>
-				</stadion>
-				<arbitru>
-					<nume_arbitru>Cuney_Cakır</nume_arbitru>
-				</arbitru>
-				<scor val = "0-0"/>
-			</meci>
-			<meci Numar_Meci="4">
+				</locatie>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Ion Marius</nume_persoana_de_contact>
+				</persoana_de_contact>
+				<data_assign val = "21/02/2018"/>
+			</assignment>
+			<assignment asg_num="4">
 				<echipa>
 					<nume_echipa>Cleaning now</nume_echipa>
-					<jucator>
-						<nume_jucator>Charles_Itandje</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Charles_Itandje</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Benoit_Assou_Ekotto</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Benoit_Assou_Ekotto</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Nicolas_Koulou</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Nicolas_Koulou</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cedric_Djeugoue</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Cedric_Djeugoue</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Dany_Nounkeu</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Dany_Nounkeu</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jean_Makoun</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jean_Makoun</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Eyong_Enoh</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Eyong_Enoh</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Edgar_Salli</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Edgar_Salli</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Joel_Matip</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Joel_Matip</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Benjamin_Moukandjo</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Benjamin_Moukandjo</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Pierre_Webo</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Pierre_Webo</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Volker_Finke</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Volker_Finke</nume_sofer>
+					</sofer>
 				</echipa>
 				<echipa>
 					<nume_echipa>Safe clean</nume_echipa>
-					<jucator>
-						<nume_jucator>Ivan_Vargic</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Ivan_Vargic</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Sime_Vrsaljko</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Sime_Vrsaljko</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Goran_Milovic</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Goran_Milovic</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Darjo_Srna</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Darjo_Srna</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marko_Leskovic</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Marko_Leskovic</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Ivan_Perisic</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Ivan_Perisic</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Ivan_Mocinic</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Ivan_Mocinic</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marcelo_Brozović</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Marcelo_Brozović</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Milan_Badelj</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Milan_Badelj</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mario_Mandzukic</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mario_Mandzukic</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Ivica_Olic</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Ivica_Olic</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<antrenor>
-						<nume_antrenor>Niko_Kovac</nume_antrenor>
-					</antrenor>
+					</membru>
+					<sofer>
+						<nume_sofer>Niko_Kovac</nume_sofer>
+					</sofer>
 				</echipa>
-				<stadion>
-					<nume_stadion>Arena_da_Amazonia</nume_stadion>
+				<locatie>
+					<adresa>Splaiul unirii 12</adresa>
 					<oras>Manaus</oras>
 					<capacitate>39116</capacitate>
-				</stadion>
-				<arbitru>
-					<nume_arbitru>Pedro_Proenca</nume_arbitru>
-				</arbitru>
-				<scor val = "0-4"/>
-			</meci>
+				</locatie>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Gheorghe Ion</nume_persoana_de_contact>
+				</persoana_de_contact>
+				<data_assign val = "22/05/2017"/>
+			</assignment>
 		</grupa>
 		
     <grupa Nume_Grupa = "B">
-			<meci Numar_Meci="1">
+			<assignment asg_num="1">
 				<echipa>
 					<nume_echipa>Hairdress</nume_echipa>
-					<jucator>
-						<nume_jucator>Sergio_Rico</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Sergio_Rico</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Sergio_Ramos</nume_jucator>
-						<numar>15</numar>
+					</membru>
+					<membru>
+						<nume_membru>Sergio_Ramos</nume_membru>
+						<serie_ci>15</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gerard_Pique</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Gerard_Pique</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jordi_Alba</nume_jucator>
-						<numar>18</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jordi_Alba</nume_membru>
+						<serie_ci>18</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juanfran</nume_jucator>
-						<numar>16</numar>
+					</membru>
+					<membru>
+						<nume_membru>Juanfran</nume_membru>
+						<serie_ci>16</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>David_Silva</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>David_Silva</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juan_Mata</nume_jucator>
-						<numar>13</numar>
+					</membru>
+					<membru>
+						<nume_membru>Juan_Mata</nume_membru>
+						<serie_ci>13</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Isco</nume_jucator>
-						<numar>22</numar>
+					</membru>
+					<membru>
+						<nume_membru>Isco</nume_membru>
+						<serie_ci>22</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Thiago</nume_jucator>
-						<numar>14</numar>
+					</membru>
+					<membru>
+						<nume_membru>Thiago</nume_membru>
+						<serie_ci>14</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Pedro</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Pedro</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Diego_Costa</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Diego_Costa</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<antrenor>
-						<nume_antrenor>Vicente_del_Bosque</nume_antrenor>
-					</antrenor>
+					</membru>
+					<sofer>
+						<nume_sofer>Vicente_del_Bosque</nume_sofer>
+					</sofer>
 				</echipa>
 				<echipa>
 					<nume_echipa>Hair and massage</nume_echipa>
-					<jucator>
-						<nume_jucator>Jeroen_Zoet</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Jeroen_Zoet</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Daley_Blind</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Daley_Blind</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Erik_Pieters</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Erik_Pieters</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Kenny_Tete</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Kenny_Tete</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Terence_Kongolo</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Terence_Kongolo</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Georginio_Wijnaldum</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Georginio_Wijnaldum</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jordy_Clasie</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jordy_Clasie</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marko_Vejinovic</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Marko_Vejinovic</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Wesley_Sneijder</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Wesley_Sneijder</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Memphis_Depay</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Memphis_Depay</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Arjen_Robben</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Arjen_Robben</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Guus_Hiddink</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Guus_Hiddink</nume_sofer>
+					</sofer>
 				</echipa>
-				<stadion>
-					<nume_stadion>Arena_Fonte_Nova</nume_stadion>
+				<locatie>
+					<adresa>Tineretului 239</adresa>
 					<oras>Salvador</oras>
 					<capacitate>55000</capacitate>
-				</stadion>
-				<arbitru>
-					<nume_arbitru>Nicola_Rizzoli</nume_arbitru>
-				</arbitru>
-				<scor val = "1-5"/>
-			</meci>
+				</locatie>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Vasile Ionut</nume_persoana_de_contact>
+				</persoana_de_contact>
+				<data_assign val = "21/02/2019"/>
+			</assignment>
 			
-			<meci Numar_Meci="2">
+			<assignment asg_num="2">
 				<echipa>
 					<nume_echipa>Hair and body</nume_echipa>
-					<jucator>
-						<nume_jucator>Claudio_Bravo</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Claudio_Bravo</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mauricio_Isla</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mauricio_Isla</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gary_Medel</nume_jucator>
-						<numar>17</numar>
+					</membru>
+					<membru>
+						<nume_membru>Gary_Medel</nume_membru>
+						<serie_ci>17</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gonzalo_Jara</nume_jucator>
-						<numar>18</numar>
+					</membru>
+					<membru>
+						<nume_membru>Gonzalo_Jara</nume_membru>
+						<serie_ci>18</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Eugenio_Mena</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Eugenio_Mena</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Charles_Aranguiz</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Charles_Aranguiz</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marcelo_Diaz</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Marcelo_Diaz</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Arturo_Vidal</nume_jucator>
-						<numar>8</numar>
+					</membru>
+					<membru>
+						<nume_membru>Arturo_Vidal</nume_membru>
+						<serie_ci>8</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Alexis_Sanchez</nume_jucator>
-						<numar>7</numar>
+					</membru>
+					<membru>
+						<nume_membru>Alexis_Sanchez</nume_membru>
+						<serie_ci>7</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jorge_Valdivia</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jorge_Valdivia</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Eduardo_Vargas</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Eduardo_Vargas</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Jorge_Sampaoli</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Jorge_Sampaoli</nume_sofer>
+					</sofer>
 				</echipa>
 				<echipa>
 					<nume_echipa>Hair and more</nume_echipa>
-					<jucator>
-						<nume_jucator>Mathew_Ryan</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Mathew_Ryan</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Ivan_Franjic</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Ivan_Franjic</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Alex_Wilkinson</nume_jucator>
-						<numar>22</numar>
+					</membru>
+					<membru>
+						<nume_membru>Alex_Wilkinson</nume_membru>
+						<serie_ci>22</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Matthew_Spiranovic</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Matthew_Spiranovic</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Dany_Nounkeu</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Dany_Nounkeu</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jason_Davidson</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jason_Davidson</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mile_Jedinak</nume_jucator>
-						<numar>15</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mile_Jedinak</nume_membru>
+						<serie_ci>15</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mark_Milligan</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mark_Milligan</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mathew_Leckie</nume_jucator>
-						<numar>7</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mathew_Leckie</nume_membru>
+						<serie_ci>7</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Tommy_Oar</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Tommy_Oar</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Tim_Cahill</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Tim_Cahill</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Ange_Postecoglou</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Ange_Postecoglou</nume_sofer>
+					</sofer>
 				</echipa>				
-				<stadion>
-					<nume_stadion>Arena_Pantanal</nume_stadion>
+				<locatie>
+					<adresa>Regie 12</adresa>
 					<oras>Cuiaba</oras>
 					<capacitate>42500</capacitate>
-				</stadion>				
-				<arbitru>
-					<nume_arbitru>Wilmar_Roldán</nume_arbitru>
-				</arbitru>				
-				<scor val = "3-1"/>
-			</meci>			
+				</locatie>				
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Ioana Floarea</nume_persoana_de_contact>
+				</persoana_de_contact>				
+				<data_assign val = "24/03/2017"/>
+			</assignment>			
 			
-			<meci Numar_Meci="3">
+			<assignment asg_num="3">
 				<echipa>
 					<nume_echipa>Hair safe</nume_echipa>
-					<jucator>
-						<nume_jucator>Mathew_Ryan</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Mathew_Ryan</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Ivan_Franjic</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Ivan_Franjic</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Alex_Wilkinson</nume_jucator>
-						<numar>22</numar>
+					</membru>
+					<membru>
+						<nume_membru>Alex_Wilkinson</nume_membru>
+						<serie_ci>22</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Matthew_Spiranovic</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Matthew_Spiranovic</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Dany_Nounkeu</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Dany_Nounkeu</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jason_Davidson</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jason_Davidson</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mile_Jedinak</nume_jucator>
-						<numar>15</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mile_Jedinak</nume_membru>
+						<serie_ci>15</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mark_Milligan</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mark_Milligan</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mathew_Leckie</nume_jucator>
-						<numar>7</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mathew_Leckie</nume_membru>
+						<serie_ci>7</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Tommy Oar</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Tommy Oar</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Tim_Cahill</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Tim_Cahill</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Ange_Postecoglou</nume_antrenor>
-					</antrenor>				
+					<sofer>
+						<nume_sofer>Ange_Postecoglou</nume_sofer>
+					</sofer>				
 				</echipa>				
 				<echipa>
 					<nume_echipa>Hair and more</nume_echipa>
-					<jucator>
-						<nume_jucator>Jeroen_Zoet</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Jeroen_Zoet</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Daley_Blind</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Daley_Blind</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Erik_Pieters</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Erik_Pieters</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Kenny_Tete</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Kenny_Tete</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Terence_Kongolo</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Terence_Kongolo</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Georginio_Wijnaldum</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Georginio_Wijnaldum</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jordy_Clasie</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jordy_Clasie</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marko_Vejinovic</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Marko_Vejinovic</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Wesley_Sneijder</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Wesley_Sneijder</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Memphis_Depay</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Memphis_Depay</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Arjen_Robben</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Arjen_Robben</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Guus_Hiddink</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Guus_Hiddink</nume_sofer>
+					</sofer>
 				</echipa>				
-				<stadion>
-					<nume_stadion>Estadio_Beira_Rio</nume_stadion>
+				<locatie>
+					<adresa>Unirii 21</adresa>
 					<oras>Porto_Alegre</oras>
 					<capacitate>51300</capacitate>
-				</stadion>			
-				<arbitru>
-					<nume_arbitru>Cuney_Cakır</nume_arbitru>
-				</arbitru>			
-				<scor val = "2-3"/>
-			</meci>			
-			<meci Numar_Meci="4">
+				</locatie>			
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Floricel Ion</nume_persoana_de_contact>
+				</persoana_de_contact>			
+				<data_assign val = "25/09/2017"/>
+			</assignment>			
+			<assignment asg_num="4">
 				<echipa>
 					<nume_echipa>Hairdress</nume_echipa>
 					
-					<jucator>
-						<nume_jucator>Sergio_Rico</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Sergio_Rico</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Sergio_Ramos</nume_jucator>
-						<numar>15</numar>
+					</membru>
+					<membru>
+						<nume_membru>Sergio_Ramos</nume_membru>
+						<serie_ci>15</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gerard_Piqué</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Gerard_Piqué</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jordi_Alba</nume_jucator>
-						<numar>18</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jordi_Alba</nume_membru>
+						<serie_ci>18</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juanfran</nume_jucator>
-						<numar>16</numar>
+					</membru>
+					<membru>
+						<nume_membru>Juanfran</nume_membru>
+						<serie_ci>16</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>David_Silva</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>David_Silva</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juan_Mata</nume_jucator>
-						<numar>13</numar>
+					</membru>
+					<membru>
+						<nume_membru>Juan_Mata</nume_membru>
+						<serie_ci>13</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Isco</nume_jucator>
-						<numar>22</numar>
+					</membru>
+					<membru>
+						<nume_membru>Isco</nume_membru>
+						<serie_ci>22</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Thiago</nume_jucator>
-						<numar>14</numar>
+					</membru>
+					<membru>
+						<nume_membru>Thiago</nume_membru>
+						<serie_ci>14</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Pedro</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Pedro</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Diego_Costa</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Diego_Costa</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Vicente_del_Bosque</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Vicente_del_Bosque</nume_sofer>
+					</sofer>
 				</echipa>				
 				<echipa>
 					<nume_echipa>Hair safe</nume_echipa>
-					<jucator>
-						<nume_jucator>Claudio_Bravo</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Claudio_Bravo</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mauricio_Isla</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mauricio_Isla</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gary_Medel</nume_jucator>
-						<numar>17</numar>
+					</membru>
+					<membru>
+						<nume_membru>Gary_Medel</nume_membru>
+						<serie_ci>17</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gonzalo_Jara</nume_jucator>
-						<numar>18</numar>
+					</membru>
+					<membru>
+						<nume_membru>Gonzalo_Jara</nume_membru>
+						<serie_ci>18</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Eugenio_Mena</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Eugenio_Mena</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Charles_Aranguiz</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Charles_Aranguiz</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marcelo_Diaz</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Marcelo_Diaz</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Arturo Vidal</nume_jucator>
-						<numar>8</numar>
+					</membru>
+					<membru>
+						<nume_membru>Arturo Vidal</nume_membru>
+						<serie_ci>8</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Alexis_Sánchez</nume_jucator>
-						<numar>7</numar>
+					</membru>
+					<membru>
+						<nume_membru>Alexis_Sánchez</nume_membru>
+						<serie_ci>7</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jorge_Valdivia</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jorge_Valdivia</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Eduardo_Vargas</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Eduardo_Vargas</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Jorge_Sampaoli</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Jorge_Sampaoli</nume_sofer>
+					</sofer>
 				</echipa>				
-				<stadion>
-					<nume_stadion>Estadio_do_Maracana</nume_stadion>
+				<locatie>
+					<adresa>Ferentari 12</adresa>
 					<oras>Rio_de_Janeiro</oras>
 					<capacitate>78838</capacitate>
-				</stadion>				
-				<arbitru>
-					<nume_arbitru>Mark_Geiger</nume_arbitru>
-				</arbitru>				
-				<scor val = "0-2"/>
-			</meci>			
+				</locatie>				
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Ionel Marcel</nume_persoana_de_contact>
+				</persoana_de_contact>				
+				<data_assign val = "24/05/2019"/>
+			</assignment>			
 			
 			
 		</grupa>
 		
 		<grupa Nume_Grupa = "C">
-			<meci Numar_Meci="1">
+			<assignment asg_num="1">
 				<echipa>
 					<nume_echipa>Amenajari</nume_echipa>
-					<jucator>
-						<nume_jucator>David_Ospina</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>David_Ospina</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juan_Camilo</nume_jucator>
-						<numar>18</numar>
+					</membru>
+					<membru>
+						<nume_membru>Juan_Camilo</nume_membru>
+						<serie_ci>18</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cristian_Zapata</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Cristian_Zapata</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mario_Yepes</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mario_Yepes</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Pablo_Armero</nume_jucator>
-						<numar>7</numar>
+					</membru>
+					<membru>
+						<nume_membru>Pablo_Armero</nume_membru>
+						<serie_ci>7</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juan_Guillermo</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Juan_Guillermo</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Abel_Aguilar</nume_jucator>
-						<numar>8</numar>
+					</membru>
+					<membru>
+						<nume_membru>Abel_Aguilar</nume_membru>
+						<serie_ci>8</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Carlos_Sanchez</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Carlos_Sanchez</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>James_Rodriguez</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>James_Rodriguez</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Victor_Ibarbo</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Victor_Ibarbo</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Teofilo_Gutierrez</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Teofilo_Gutierrez</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Jose_Pekerman</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Jose_Pekerman</nume_sofer>
+					</sofer>
 				</echipa>
 				
 				<echipa>
 					<nume_echipa>Zugravit</nume_echipa>
-					<jucator>
-						<nume_jucator>Orestis_Karnezis</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Orestis_Karnezis</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Vasilis_Torosidis</nume_jucator>
-						<numar>15</numar>
+					</membru>
+					<membru>
+						<nume_membru>Vasilis_Torosidis</nume_membru>
+						<serie_ci>15</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Kostas_Manolas</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Kostas_Manolas</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Sokratis_Papastathopoulo</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Sokratis_Papastathopoulo</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jose_Holebas</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jose_Holebas</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Kostas_Katsouranis</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Kostas_Katsouranis</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Dimitris_Salpingidis</nume_jucator>
-						<numar>14</numar>
+					</membru>
+					<membru>
+						<nume_membru>Dimitris_Salpingidis</nume_membru>
+						<serie_ci>14</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Giorgos_Samaras</nume_jucator>
-						<numar>7</numar>
+					</membru>
+					<membru>
+						<nume_membru>Giorgos_Samaras</nume_membru>
+						<serie_ci>7</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Panagiotis_Kone</nume_jucator>
-						<numar>8</numar>
+					</membru>
+					<membru>
+						<nume_membru>Panagiotis_Kone</nume_membru>
+						<serie_ci>8</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Giannis_Maniatis</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Giannis_Maniatis</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Theofanis_Gekas</nume_jucator>
-						<numar>17</numar>
+					</membru>
+					<membru>
+						<nume_membru>Theofanis_Gekas</nume_membru>
+						<serie_ci>17</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Fernando_Santos</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Fernando_Santos</nume_sofer>
+					</sofer>
 				</echipa>
 				
-				<stadion>
-					<nume_stadion>Estadio_Mineirao</nume_stadion>
+				<locatie>
+					<adresa>Aviatorilor 239</adresa>
 					<oras>Belo_Horizonte</oras>
 					<capacitate>57300</capacitate>
-				</stadion>
+				</locatie>
 				
-				<arbitru>
-					<nume_arbitru>Mark_Geiger</nume_arbitru>
-				</arbitru>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Stancu Ion</nume_persoana_de_contact>
+				</persoana_de_contact>
 				
-				<scor val = "3-0"/>
-			</meci>
+				<data_assign val = "10/2/2017"/>
+			</assignment>
 			
-			<meci Numar_Meci="2">
+			<assignment asg_num="2">
 				<echipa>
 				
 					<nume_echipa>Parchet si podele</nume_echipa>
 					
-					<jucator>
-						<nume_jucator>Boubacar_Barry</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Boubacar_Barry</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juan_Camilo</nume_jucator>
-						<numar>18</numar>
+					</membru>
+					<membru>
+						<nume_membru>Juan_Camilo</nume_membru>
+						<serie_ci>18</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Serge_Aurier</nume_jucator>
-						<numar>17</numar>
+					</membru>
+					<membru>
+						<nume_membru>Serge_Aurier</nume_membru>
+						<serie_ci>17</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Didier_Zokora</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Didier_Zokora</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Sol_Bamba</nume_jucator>
-						<numar>22</numar>
+					</membru>
+					<membru>
+						<nume_membru>Sol_Bamba</nume_membru>
+						<serie_ci>22</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Arthur_Boka</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Arthur_Boka</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cheick_Tiote</nume_jucator>
-						<numar>9</numar>
+					</membru>
+					<membru>
+						<nume_membru>Cheick_Tiote</nume_membru>
+						<serie_ci>9</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Serey_Die</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Serey_Die</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Yaya_Toure</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Yaya_Toure</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Salomon_Kalou</nume_jucator>
-						<numar>8</numar>
+					</membru>
+					<membru>
+						<nume_membru>Salomon_Kalou</nume_membru>
+						<serie_ci>8</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Wilfried_Bony</nume_jucator>
-						<numar>12</numar>
+					</membru>
+					<membru>
+						<nume_membru>Wilfried_Bony</nume_membru>
+						<serie_ci>12</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Sabri_Lamouchi</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Sabri_Lamouchi</nume_sofer>
+					</sofer>
 				</echipa>
 				
 				<echipa>
 				
 					<nume_echipa>Instalatie electrica</nume_echipa>
 					
-					<jucator>
-						<nume_jucator>Eiji_Kawashima</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Eiji_Kawashima</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Atsuto_Uchida</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Atsuto_Uchida</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Maya_Yoshida</nume_jucator>
-						<numar>22</numar>
+					</membru>
+					<membru>
+						<nume_membru>Maya_Yoshida</nume_membru>
+						<serie_ci>22</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Masato_Morishige</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Masato_Morishige</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Yuto_Nagatomo</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Yuto_Nagatomo</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Hotaru_Yamaguchi</nume_jucator>
-						<numar>16</numar>
+					</membru>
+					<membru>
+						<nume_membru>Hotaru_Yamaguchi</nume_membru>
+						<serie_ci>16</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Makoto_Hasebe</nume_jucator>
-						<numar>17</numar>
+					</membru>
+					<membru>
+						<nume_membru>Makoto_Hasebe</nume_membru>
+						<serie_ci>17</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Shinji_Okazaki</nume_jucator>
-						<numar>9</numar>
+					</membru>
+					<membru>
+						<nume_membru>Shinji_Okazaki</nume_membru>
+						<serie_ci>9</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Keisuke_Honda</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Keisuke_Honda</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Shinji_Kagawa</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Shinji_Kagawa</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Yuya_Osako</nume_jucator>
-						<numar>18</numar>
+					</membru>
+					<membru>
+						<nume_membru>Yuya_Osako</nume_membru>
+						<serie_ci>18</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Alberto_Zaccheroni</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Alberto_Zaccheroni</nume_sofer>
+					</sofer>
 				</echipa>
 				
-				<stadion>
-					<nume_stadion>Arena_Pernambuco</nume_stadion>
+				<locatie>
+					<adresa>Pipera 70</adresa>
 					<oras>Recife</oras>
 					<capacitate>46160</capacitate>
-				</stadion>
+				</locatie>
 				
-				<arbitru>
-					<nume_arbitru>Enrique_Osses</nume_arbitru>
-				</arbitru>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Ionela Gheo</nume_persoana_de_contact>
+				</persoana_de_contact>
 				
-				<scor val = "2-1"/>
-			</meci>
+				<data_assign val = "11/2/2017"/>
+			</assignment>
 			
-			<meci Numar_Meci="3">
+			<assignment asg_num="3">
 				<echipa>
 				
 					<nume_echipa>Instalatii electrice</nume_echipa>
 					
-					<jucator>
-						<nume_jucator>David_Ospina</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>David_Ospina</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juan_Camilo</nume_jucator>
-						<numar>18</numar>
+					</membru>
+					<membru>
+						<nume_membru>Juan_Camilo</nume_membru>
+						<serie_ci>18</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cristian_Zapata</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Cristian_Zapata</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mario_Yepes</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mario_Yepes</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Pablo_Armero</nume_jucator>
-						<numar>7</numar>
+					</membru>
+					<membru>
+						<nume_membru>Pablo_Armero</nume_membru>
+						<serie_ci>7</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juan_Guillermo</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Juan_Guillermo</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Abel_Aguilar</nume_jucator>
-						<numar>8</numar>
+					</membru>
+					<membru>
+						<nume_membru>Abel_Aguilar</nume_membru>
+						<serie_ci>8</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Carlos_Sanchez</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Carlos_Sanchez</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>James_Rodriguez</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>James_Rodriguez</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Victor_Ibarbo</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Victor_Ibarbo</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Teofilo_Gutierrez</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Teofilo_Gutierrez</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Jose_Pekerman</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Jose_Pekerman</nume_sofer>
+					</sofer>
 					
 				</echipa>
 			
@@ -1455,364 +1455,364 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 				
 					<nume_echipa>Parchet si podele</nume_echipa>
 					
-					<jucator>
-						<nume_jucator>Boubacar_Barry</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Boubacar_Barry</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Juan_Camilo</nume_jucator>
-						<numar>18</numar>
+					</membru>
+					<membru>
+						<nume_membru>Juan_Camilo</nume_membru>
+						<serie_ci>18</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Serge_Aurier</nume_jucator>
-						<numar>17</numar>
+					</membru>
+					<membru>
+						<nume_membru>Serge_Aurier</nume_membru>
+						<serie_ci>17</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Didier_Zokora</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Didier_Zokora</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Sol_Bamba</nume_jucator>
-						<numar>22</numar>
+					</membru>
+					<membru>
+						<nume_membru>Sol_Bamba</nume_membru>
+						<serie_ci>22</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Arthur_Boka</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Arthur_Boka</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cheick_Tiote</nume_jucator>
-						<numar>9</numar>
+					</membru>
+					<membru>
+						<nume_membru>Cheick_Tiote</nume_membru>
+						<serie_ci>9</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Serey_Die</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Serey_Die</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Yaya_Toure</nume_jucator>
-						<numar>19</numar>
+					</membru>
+					<membru>
+						<nume_membru>Yaya_Toure</nume_membru>
+						<serie_ci>19</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Salomon_Kalou</nume_jucator>
-						<numar>8</numar>
+					</membru>
+					<membru>
+						<nume_membru>Salomon_Kalou</nume_membru>
+						<serie_ci>8</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Wilfried_Bony</nume_jucator>
-						<numar>12</numar>
+					</membru>
+					<membru>
+						<nume_membru>Wilfried_Bony</nume_membru>
+						<serie_ci>12</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Sabri_Lamouchi</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Sabri_Lamouchi</nume_sofer>
+					</sofer>
 				</echipa>
-				<stadion>
-					<nume_stadion>Nacional_Mane_Garrincha</nume_stadion>
+				<locatie>
+					<adresa>Grozavesti 12</adresa>
 					<oras>Brasilia</oras>
 					<capacitate>69160</capacitate>
-				</stadion>
+				</locatie>
 				
-				<arbitru>
-					<nume_arbitru>Howard_Webb</nume_arbitru>
-				</arbitru>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Gigel Frone</nume_persoana_de_contact>
+				</persoana_de_contact>
 				
-				<scor val = "2-1"/>
+				<data_assign val = "12/2/2017"/>
 			
-			</meci>
+			</assignment>
 			
 		
 		</grupa>
 		
 		<grupa Nume_Grupa = "D">
-			<meci Numar_Meci="1">
+			<assignment asg_num="1">
 				<echipa>
 					<nume_echipa>Manichiura</nume_echipa>
-					<jucator>
-						<nume_jucator>Fernando Muslera</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Fernando Muslera</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Maxi Pereira</nume_jucator>
-						<numar>16</numar>
+					</membru>
+					<membru>
+						<nume_membru>Maxi Pereira</nume_membru>
+						<serie_ci>16</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Diego Lugano</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Diego Lugano</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Diego Godin</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Diego Godin</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Martin Caceres</nume_jucator>
-						<numar>22</numar>
+					</membru>
+					<membru>
+						<nume_membru>Martin Caceres</nume_membru>
+						<serie_ci>22</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Christian Stuani</nume_jucator>
-						<numar>11</numar>
+					</membru>
+					<membru>
+						<nume_membru>Christian Stuani</nume_membru>
+						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Egidio Arevalo Rios</nume_jucator>
-						<numar>17</numar>
+					</membru>
+					<membru>
+						<nume_membru>Egidio Arevalo Rios</nume_membru>
+						<serie_ci>17</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Walter Gargano</nume_jucator>
-						<numar>7</numar>
+					</membru>
+					<membru>
+						<nume_membru>Walter Gargano</nume_membru>
+						<serie_ci>7</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cristian Rodriguez</nume_jucator>
-						<numar>8</numar>
+					</membru>
+					<membru>
+						<nume_membru>Cristian Rodriguez</nume_membru>
+						<serie_ci>8</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Diego Forlan</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Diego Forlan</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Edinson Cavani</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Edinson Cavani</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Oscar Tabarez</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Oscar Tabarez</nume_sofer>
+					</sofer>
 				</echipa>
 				
 				<echipa>
 					<nume_echipa>Pedichiura</nume_echipa>
-					<jucator>
-						<nume_jucator>Keylor Navas</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Keylor Navas</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Oscar Duarte</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Oscar Duarte</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Giancarlo Gonzalez</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Giancarlo Gonzalez</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Joel Campbell</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Joel Campbell</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Michael Umana</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Michael Umana</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Cristian Gamboa</nume_jucator>
-						<numar>16</numar>
+					</membru>
+					<membru>
+						<nume_membru>Cristian Gamboa</nume_membru>
+						<serie_ci>16</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Junior Diaz</nume_jucator>
-						<numar>15</numar>
+					</membru>
+					<membru>
+						<nume_membru>Junior Diaz</nume_membru>
+						<serie_ci>15</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Celso Borges</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Celso Borges</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Yeltsin Tejeda</nume_jucator>
-						<numar>17</numar>
+					</membru>
+					<membru>
+						<nume_membru>Yeltsin Tejeda</nume_membru>
+						<serie_ci>17</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Bryan Ruiz</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Bryan Ruiz</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Christian Bolanos</nume_jucator>
-						<numar>7</numar>
+					</membru>
+					<membru>
+						<nume_membru>Christian Bolanos</nume_membru>
+						<serie_ci>7</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Jorge Luis Pinto</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Jorge Luis Pinto</nume_sofer>
+					</sofer>
 				</echipa>
 				
-				<stadion>
-					<nume_stadion>Estadio Castelao</nume_stadion>
+				<locatie>
+					<adresa>Crangasi 13</adresa>
 					<oras>Fortaleza</oras>
 					<capacitate>58360</capacitate>
-				</stadion>
+				</locatie>
 				
-				<arbitru>
-					<nume_arbitru>Felix Brych</nume_arbitru>
-				</arbitru>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Ioana Luiza Ion</nume_persoana_de_contact>
+				</persoana_de_contact>
 				
-				<scor val = "1-3"/>
+				<data_assign val = "9/2/2017"/>
 			
-			</meci>
+			</assignment>
 			
-			<meci Numar_Meci="2">
+			<assignment asg_num="2">
 				<echipa>
 					<nume_echipa>Masaj</nume_echipa>
-					<jucator>
-						<nume_jucator>Joe Hart</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Joe Hart</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Glen Johnson</nume_jucator>
-						<numar>2</numar>
+					</membru>
+					<membru>
+						<nume_membru>Glen Johnson</nume_membru>
+						<serie_ci>2</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gary Cahill</nume_jucator>
-						<numar>6</numar>
+					</membru>
+					<membru>
+						<nume_membru>Gary Cahill</nume_membru>
+						<serie_ci>6</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Phil Jagielka</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Phil Jagielka</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Leighton Baines</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Leighton Baines</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Steven Gerrard</nume_jucator>
-						<numar>16</numar>
+					</membru>
+					<membru>
+						<nume_membru>Steven Gerrard</nume_membru>
+						<serie_ci>16</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Jordan Henderson</nume_jucator>
-						<numar>15</numar>
+					</membru>
+					<membru>
+						<nume_membru>Jordan Henderson</nume_membru>
+						<serie_ci>15</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Danny Welbeck</nume_jucator>
-						<numar>5</numar>
+					</membru>
+					<membru>
+						<nume_membru>Danny Welbeck</nume_membru>
+						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Raheem Sterling</nume_jucator>
-						<numar>17</numar>
+					</membru>
+					<membru>
+						<nume_membru>Raheem Sterling</nume_membru>
+						<serie_ci>17</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Wayne Rooney</nume_jucator>
-						<numar>10</numar>
+					</membru>
+					<membru>
+						<nume_membru>Wayne Rooney</nume_membru>
+						<serie_ci>10</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Daniel Sturridge</nume_jucator>
-						<numar>7</numar>
+					</membru>
+					<membru>
+						<nume_membru>Daniel Sturridge</nume_membru>
+						<serie_ci>7</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Roy Hodgson</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Roy Hodgson</nume_sofer>
+					</sofer>
 				</echipa>
 				
 				<echipa>
 					<nume_echipa>Relaxare..manichiura..pedichiura</nume_echipa>
-					<jucator>
-						<nume_jucator>Salvatore Sirigu</nume_jucator>
-						<numar>1</numar>
+					<membru>
+						<nume_membru>Salvatore Sirigu</nume_membru>
+						<serie_ci>1</serie_ci>
 						<pozitie>Portar</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Matteo Darmian</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Matteo Darmian</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Andrea Barzagli</nume_jucator>
-						<numar>15</numar>
+					</membru>
+					<membru>
+						<nume_membru>Andrea Barzagli</nume_membru>
+						<serie_ci>15</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Gabriel Paletta</nume_jucator>
-						<numar>20</numar>
+					</membru>
+					<membru>
+						<nume_membru>Gabriel Paletta</nume_membru>
+						<serie_ci>20</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Mario Balotelli</nume_jucator>
-						<numar>4</numar>
+					</membru>
+					<membru>
+						<nume_membru>Mario Balotelli</nume_membru>
+						<serie_ci>4</serie_ci>
 						<pozitie>Fundas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Giorgio Chiellini</nume_jucator>
-						<numar>3</numar>
+					</membru>
+					<membru>
+						<nume_membru>Giorgio Chiellini</nume_membru>
+						<serie_ci>3</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Claudio Marchisio</nume_jucator>
-						<numar>8</numar>
+					</membru>
+					<membru>
+						<nume_membru>Claudio Marchisio</nume_membru>
+						<serie_ci>8</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Daniele De Rossi</nume_jucator>
-						<numar>16</numar>
+					</membru>
+					<membru>
+						<nume_membru>Daniele De Rossi</nume_membru>
+						<serie_ci>16</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Marco Verratti</nume_jucator>
-						<numar>23</numar>
+					</membru>
+					<membru>
+						<nume_membru>Marco Verratti</nume_membru>
+						<serie_ci>23</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Andrea Pirlo</nume_jucator>
-						<numar>21</numar>
+					</membru>
+					<membru>
+						<nume_membru>Andrea Pirlo</nume_membru>
+						<serie_ci>21</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
-					<jucator>
-						<nume_jucator>Antonio Candreva</nume_jucator>
-						<numar>7</numar>
+					</membru>
+					<membru>
+						<nume_membru>Antonio Candreva</nume_membru>
+						<serie_ci>7</serie_ci>
 						<pozitie>Atacant</pozitie>
-					</jucator>
+					</membru>
 					
-					<antrenor>
-						<nume_antrenor>Cesare Prandelli</nume_antrenor>
-					</antrenor>
+					<sofer>
+						<nume_sofer>Cesare Prandelli</nume_sofer>
+					</sofer>
 				</echipa>
-				<stadion>
-					<nume_stadion>Arena da Amazonia</nume_stadion>
+				<locatie>
+					<adresa>Basarab 12</adresa>
 					<oras>Manaus</oras>
 					<capacitate>40800</capacitate>
-				</stadion>
+				</locatie>
 				
-				<arbitru>
-					<nume_arbitru>Bjorn Kuipers</nume_arbitru>
-				</arbitru>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Alexandra Ion</nume_persoana_de_contact>
+				</persoana_de_contact>
 				
-				<scor val = "1-2"/>
+				<data_assign val = "19/2/2017"/>
 			
-			</meci>
+			</assignment>
 			
 		
 		</grupa>
