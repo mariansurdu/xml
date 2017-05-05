@@ -63,7 +63,7 @@ namespace PrestareServiciiDomiciliu
             }
         }
 
-        private void button1_Click(object sender, EventArgs e) // butonul "Grupa A" ;afiseaza echipele din grupa A
+        private void button1_Click(object sender, EventArgs e) // buton pentru vizualizarea echipelor de curatenie
         {
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
@@ -81,7 +81,7 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
         }
 
-        private void button2_Click(object sender, EventArgs e) // butonul "Grupa B"; afiseaza echipele din grupa b
+        private void button2_Click(object sender, EventArgs e) // buton pentru vizualizarea echipelor de coafura
         {
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
@@ -100,7 +100,7 @@ namespace PrestareServiciiDomiciliu
 
         }
 
-        private void button3_Click(object sender, EventArgs e) // butonul "Grupa C" ; afiseaza echipele din grupa C
+        private void button3_Click(object sender, EventArgs e) // definire Buton pentru vizualizarea echipelor responsabile cu amenajarile interioare
         {
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
@@ -109,7 +109,7 @@ namespace PrestareServiciiDomiciliu
 
             CautaEchipe();
 
-            for (int i = 17; i < 22; i++)
+            for (int i = 17; i < 21; i++)
             {
                 dataGridView1.Rows.Add(nume[i]);
             }
@@ -118,7 +118,7 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
         }
 
-        private void button4_Click(object sender, EventArgs e) // butonul "Grupa D"; afiseaza echipele din grupa D
+        private void button4_Click(object sender, EventArgs e) // //definire Buton pentru vizualizarea echipelor de manichiura/pedichiura
         {
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();

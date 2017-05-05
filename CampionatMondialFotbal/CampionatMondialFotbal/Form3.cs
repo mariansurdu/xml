@@ -205,27 +205,27 @@ namespace PrestareServiciiDomiciliu
 
             CautaDate();
 
-            for (int i = 20; i < 28; i = i + 2)
+            for (int i = 16; i < 20; i = i + 1)
             {
                 numeEchipa1.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 21; i < 28; i = i + 2)
+            for (int i = 18; i < 22; i = i + 1)
             {
                 numeEchipa2.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 10; i < 14; i++)
+            for (int i = 7; i < 11; i++)
             {
                 numeS.Add((String)numeStadion[i]);
             }
 
-            for (int i = 10; i < 14; i++)
+            for (int i = 6; i < 10; i++)
             {
                 numeA.Add((String)numeArbitru[i]);
             }
 
-            for (int i = 10; i < 14; i++)
+            for (int i = 9; i < 13; i++)
             {
                 sc.Add((String)scor[i]);
             }
@@ -257,34 +257,34 @@ namespace PrestareServiciiDomiciliu
 
             CautaDate();
 
-            for (int i = 32; i < 40; i = i + 2)
+            for (int i = 22; i < 26; i = i +1)
             {
                 numeEchipa1.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 33; i < 40; i = i + 2)
+            for (int i = 22; i < 26; i = i+1)
             {
                 numeEchipa2.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 16; i < 20; i++)
+            for (int i = 9; i < 13; i++)
             {
                 numeS.Add((String)numeStadion[i]);
             }
 
-            for (int i = 16; i < 20; i++)
+            for (int i = 9; i < 13; i++)
             {
                 numeA.Add((String)numeArbitru[i]);
             }
 
-            for (int i = 16; i < 20; i++)
+            for (int i = 9; i < 13; i++)
             {
                 sc.Add((String)scor[i]);
             }
 
             for (int j = 0; j < 4; j++)
             {
-                string[] rand = new string[] { numeEchipa1[j], numeEchipa2[j], sc[j], numeS[j], numeA[j] };
+                string[] rand = new string[] { numeEchipa1[j+4], numeEchipa2[j+4], sc[j], numeS[j], numeA[j] };
                 dataGridView1.Rows.Add(rand);
             }
 
