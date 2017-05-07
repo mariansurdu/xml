@@ -27,16 +27,16 @@ namespace PrestareServiciiDomiciliu
         {
             InitializeComponent();
 
-            doc.Load("Campionat.xml.xml"); //se incarca fisierul /xml
+            doc.Load("PrestareServiciiDomiciliu.xml"); //se incarca fisierul /xml
 
-            XmlNodeList elemList = doc.GetElementsByTagName("campionat");  //se cauta in acesta si se iau : atributul AN al elementului "Campionat" si elementul "denumire" pentru tara gazda
+            XmlNodeList elemList = doc.GetElementsByTagName("planificare");  //se cauta in acesta si se iau : atributul AN al elementului "Planificare" 
             for (int i = 0; i < elemList.Count; i++)
             {
                 an = elemList[i].Attributes["AN"].Value;
                 aux = elemList[i].ChildNodes[i].InnerText;
             }
-           // label2.Text = an;  //anul se afiseaza in label2
-           // label4.Text = aux; // numele tarii se afiseaza in label 4
+            // label2.Text = an;  //anul se afiseaza in label2
+            // label4.Text = aux; // numele tarii se afiseaza in label 4
 
             dataGridView1.BackgroundColor = Color.White;
             dataGridView1.BorderStyle = BorderStyle.None;
@@ -44,7 +44,7 @@ namespace PrestareServiciiDomiciliu
 
         public void CautaEchipe() //functie ce umple campul "nume" de tip lista cu numele echipelor din fisierul xml ;
         {
-            XElement xml = XElement.Load("Campionat.xml.xml");
+            XElement xml = XElement.Load("PrestareServiciiDomiciliu.xml");
 
             IEnumerable<XElement> campionat = xml.Elements();
 

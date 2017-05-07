@@ -35,12 +35,19 @@ namespace PrestareServiciiDomiciliu
             XslTransform xslTransformer;  //se declara  XslTransform
 
             xslTransformer = new XslTransform();  // se initializeaza
-            xslTransformer.Load("campionat.xslt.xsl"); //se incarca documentul .xsl
-            xslTransformer.Transform("Campionat.xml.xml", "rezultat.html"); 
+            xslTransformer.Load("prestare.xslt.xsl"); //se incarca documentul .xsl
+            xslTransformer.Transform("PrestareServiciiDomiciliu.xml", "prestareHtml.html");
             string dir = Directory.GetCurrentDirectory();
             Debug.WriteLine("Locatie:  " + dir);
-            Uri link = new Uri(String.Format("file:///{0}/rezultat.html", dir));
+            Uri link = new Uri(String.Format("file:///{0}/prestareHtml.html", dir));
             webBrowser1.Navigate(link);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 f1 = new Form1();
+            f1.Show();
         }
     }
 }

@@ -7,8 +7,8 @@
     <ProjectGuid>{29736400-5B34-4A0C-8A26-0C73FD4E3BEE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CampionatMondialFotbal</RootNamespace>
-    <AssemblyName>CampionatMondialFotbal</AssemblyName>
+    <RootNamespace>PrestareServiciiDomiciliu</RootNamespace>
+    <AssemblyName>PrestareServiciiDomiciliu</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

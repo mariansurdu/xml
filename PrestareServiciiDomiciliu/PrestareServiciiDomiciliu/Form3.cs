@@ -33,7 +33,7 @@ namespace PrestareServiciiDomiciliu
 
         public void Search() //functie in cadrul careia se cauta datele afisate si anume : nume echipa, nume stadion, nume arbitru si data_assign; aceste date se vor afisa ulteriol in tabela (dataGridView1).
         {
-            XElement xml = XElement.Load("Campionat.xml.xml");
+            XElement xml = XElement.Load("PrestareServiciiDomiciliu.xml");
 
             IEnumerable<XElement> companie = xml.Elements();
 
@@ -71,7 +71,7 @@ namespace PrestareServiciiDomiciliu
                     }
                 }
             }
-            doc.Load("Campionat.xml.xml");
+            doc.Load("PrestareServiciiDomiciliu.xml");
 
             XmlNodeList elemList = doc.GetElementsByTagName("data_assign"); // din fisierul xml se extrage data_assignul fiecarui meci si se salveaza intr o lista "data_assign"
             data_assign = new List<string>();
@@ -98,15 +98,17 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.Columns[2].Name = "Data";
             dataGridView1.Columns[3].Name = "Adresa";
             dataGridView1.Columns[4].Name = "Persoana de contact";
+            numeEchipa1 = new List<string>();
+            echipaUrgenta = new List<string>();
 
             Search();
 
-            for (int i = 0; i < 8; i = i + 2)
+            for (int i = 0; i < 5; i = i + 2)
             {
                 numeEchipa1.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 1; i < 8; i = i + 2)
+            for (int i = 1; i < 6; i = i + 2)
             {
                 echipaUrgenta.Add((String)numeEchipa[i]);
             }
@@ -126,7 +128,7 @@ namespace PrestareServiciiDomiciliu
                 data_assign.Add((String)data_assign[i]);
             }
 
-            for (int j = 0; j < 4; j++)
+            for (int j = 0; j < 3; j++)
             {
                 string[] rand = new string[] { numeEchipa1[j], echipaUrgenta[j], data_assign[j], numeLocatie[j], numePersContact[j] };
                 dataGridView1.Rows.Add(rand);
@@ -141,6 +143,8 @@ namespace PrestareServiciiDomiciliu
             List<string> numeS = new List<string>();
             List<string> numeA = new List<string>();
             List<string> sc = new List<string>();
+            numeEchipa1 = new List<string>();
+            echipaUrgenta = new List<string>();
 
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
@@ -153,12 +157,12 @@ namespace PrestareServiciiDomiciliu
 
             Search();
 
-            for (int i = 8; i < 16; i = i + 2)
+            for (int i = 6; i < 13; i = i + 2)
             {
                 numeEchipa1.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 9; i < 16; i = i + 2)
+            for (int i = 7; i < 14; i = i + 2)
             {
                 echipaUrgenta.Add((String)numeEchipa[i]);
             }
@@ -193,6 +197,8 @@ namespace PrestareServiciiDomiciliu
             List<string> numeS = new List<string>();
             List<string> numeA = new List<string>();
             List<string> sc = new List<string>();
+            numeEchipa1 = new List<string>();
+            echipaUrgenta = new List<string>();
 
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
@@ -205,12 +211,12 @@ namespace PrestareServiciiDomiciliu
 
             Search();
 
-            for (int i = 16; i < 20; i = i + 1)
+            for (int i = 14; i < 18; i = i + 1)
             {
                 numeEchipa1.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 18; i < 22; i = i + 1)
+            for (int i = 15; i < 20; i = i + 1)
             {
                 echipaUrgenta.Add((String)numeEchipa[i]);
             }
@@ -225,7 +231,7 @@ namespace PrestareServiciiDomiciliu
                 numeA.Add((String)numePersContact[i]);
             }
 
-            for (int i = 9; i < 13; i++)
+            for (int i = 8; i < 12; i++)
             {
                 sc.Add((String)data_assign[i]);
             }
@@ -245,6 +251,8 @@ namespace PrestareServiciiDomiciliu
             List<string> numeS = new List<string>();
             List<string> numeA = new List<string>();
             List<string> sc = new List<string>();
+            numeEchipa1 = new List<string>();
+            echipaUrgenta = new List<string>();
 
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
@@ -257,34 +265,34 @@ namespace PrestareServiciiDomiciliu
 
             Search();
 
-            for (int i = 22; i < 26; i = i +1)
+            for (int i = 20; i < 23; i = i + 1)
             {
                 numeEchipa1.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 22; i < 26; i = i+1)
+            for (int i = 21; i < 24; i = i + 1)
             {
                 echipaUrgenta.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 9; i < 13; i++)
+            for (int i = 8; i < 12; i++)
             {
                 numeS.Add((String)numeLocatie[i]);
             }
 
-            for (int i = 9; i < 13; i++)
+            for (int i = 8; i < 12; i++)
             {
                 numeA.Add((String)numePersContact[i]);
             }
 
-            for (int i = 9; i < 13; i++)
+            for (int i = 9; i < 12; i++)
             {
                 sc.Add((String)data_assign[i]);
             }
 
-            for (int j = 0; j < 4; j++)
+            for (int j = 0; j < 3; j++)
             {
-                string[] rand = new string[] { numeEchipa1[j+4], echipaUrgenta[j+4], sc[j], numeS[j], numeA[j] };
+                string[] rand = new string[] { numeEchipa1[j], echipaUrgenta[j], sc[j], numeS[j], numeA[j] };
                 dataGridView1.Rows.Add(rand);
             }
 
