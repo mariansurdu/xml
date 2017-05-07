@@ -19,7 +19,7 @@
         </h2>
 
 
-        <xsl:for-each select="campionate/campionat/grupa">
+        <xsl:for-each select="planificari/planificare/grupa">
           <p>
             Nume Sectiune <xsl:value-of select="@Nume_Grupa"/>
           </p>

@@ -1,13 +1,13 @@
 <?xml version="1.0"?> 
 <?xml-stylesheet type="text/xsl" href="E:\FACULTATE AN IV\XML\Proiect\campionat.xslt"?>
-<!DOCTYPE campionate SYSTEM "campionat.dtd">
-<campionate
+<!DOCTYPE campionate SYSTEM "prestare.dtd">
+<planificari
 xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" 
-xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
-	<campionat AN = "2014">
-		<tara_gazda>
-			<denumire>...</denumire>
-		</tara_gazda>
+xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
+	<planificare AN = "2014">
+		<tara>
+			<denumire>Romania</denumire>
+		</tara>
 		<grupa Nume_Grupa = "A">
 			<assignment asg_num = "1">
 				<echipa>
@@ -1817,5 +1817,5 @@ xs:schemaLocation="http://www.acs.ro/ campionate.xsd">
 		
 		</grupa>
 		
-	</campionat>
-</campionate>
+	</planificare>
+</planificari>
