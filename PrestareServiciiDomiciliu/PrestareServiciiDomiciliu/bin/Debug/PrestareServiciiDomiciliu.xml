@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <?xml-stylesheet type="text/xsl" href="E:\FACULTATE AN IV\XML\Proiect\campionat.xslt"?>
-<!DOCTYPE campionate SYSTEM "prestare.dtd">
+<!DOCTYPE planificari SYSTEM "prestare.dtd">
 <planificari
 xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" 
 xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
-	<planificare AN = "2014">
+	<planificare AN = "2017">
 		<tara>
 			<denumire>Romania</denumire>
 		</tara>
