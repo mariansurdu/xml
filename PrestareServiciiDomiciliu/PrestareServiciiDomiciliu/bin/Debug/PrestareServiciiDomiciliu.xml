@@ -1,5 +1,5 @@
 <?xml version="1.0"?> 
-<?xml-stylesheet type="text/xsl" href="E:\FACULTATE AN IV\XML\Proiect\campionat.xslt"?>
+<?xml-stylesheet type="text/xsl" href="E:\XML_GOOD\xml\PrestareServiciiDomiciliu\PrestareServiciiDomiciliu\bin\Debug\prestare.xslt"?>
 <!DOCTYPE planificari SYSTEM "prestare.dtd">
 <planificari
 xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" 
@@ -42,32 +42,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Roberto_Firmino</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Willian</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Philippe_Coutinho</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Neymar</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Robinho</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					
+
 					<sofer>
 						<nume_sofer>Dunga</nume_sofer>
 					</sofer>
@@ -104,32 +79,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Ivan_Mocinic</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Marcelo_Brozović</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Milan_Badelj</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Mario_Mandzukic</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Ivica_Olic</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					
+				
 					<sofer>
 						<nume_sofer>Niko_Kovac</nume_sofer>
 					</sofer>
@@ -178,31 +128,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>J_Aquino</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Ramirez</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Pineda</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Pizarro</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Jimenez</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+
 					
 					<sofer>
 						<nume_sofer>Miguel_Herrera</nume_sofer>
@@ -240,32 +166,6 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Eyong_Enoh</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Edgar_Salli</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Joel_Matip</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Benjamin_Moukandjo</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Pierre_Webo</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					
 					<sofer>
 						<nume_sofer>Volker_Finke</nume_sofer>
 					</sofer>
@@ -314,31 +214,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Roberto_Firmino</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Willian</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Philippe_Coutinho</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Neymar</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Robinho</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+
 					
 					<sofer>
 						<nume_sofer>Dunga</nume_sofer>
@@ -376,32 +252,6 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>J_Aquino</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Ramirez</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Pineda</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Pizarro</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Jimenez</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					
 					<sofer>
 						<nume_sofer>Miguel_Herrera</nume_sofer>
 					</sofer>
@@ -449,31 +299,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Eyong_Enoh</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Edgar_Salli</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Joel_Matip</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Benjamin_Moukandjo</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Pierre_Webo</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+
 					
 					<sofer>
 						<nume_sofer>Volker_Finke</nume_sofer>
@@ -511,31 +337,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Ivan_Mocinic</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Marcelo_Brozović</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Milan_Badelj</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Mario_Mandzukic</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Ivica_Olic</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+
 					<sofer>
 						<nume_sofer>Niko_Kovac</nume_sofer>
 					</sofer>
@@ -586,31 +388,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Juan_Mata</nume_membru>
-						<serie_ci>13</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Isco</nume_membru>
-						<serie_ci>22</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Thiago</nume_membru>
-						<serie_ci>14</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Pedro</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Diego_Costa</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+
 					<sofer>
 						<nume_sofer>Vicente_del_Bosque</nume_sofer>
 					</sofer>
@@ -647,31 +425,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Jordy_Clasie</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Marko_Vejinovic</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Wesley_Sneijder</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Memphis_Depay</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Arjen_Robben</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+
 					
 					<sofer>
 						<nume_sofer>Guus_Hiddink</nume_sofer>
@@ -721,31 +475,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>20</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Marcelo_Diaz</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Arturo_Vidal</nume_membru>
-						<serie_ci>8</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Alexis_Sanchez</nume_membru>
-						<serie_ci>7</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Jorge_Valdivia</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Eduardo_Vargas</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+				
 					
 					<sofer>
 						<nume_sofer>Jorge_Sampaoli</nume_sofer>
@@ -783,31 +513,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>3</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Mile_Jedinak</nume_membru>
-						<serie_ci>15</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Mark_Milligan</nume_membru>
-						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Mathew_Leckie</nume_membru>
-						<serie_ci>7</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Tommy_Oar</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Tim_Cahill</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+					
 					
 					<sofer>
 						<nume_sofer>Ange_Postecoglou</nume_sofer>
@@ -857,31 +563,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>3</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Mile_Jedinak</nume_membru>
-						<serie_ci>15</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Mark_Milligan</nume_membru>
-						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Mathew_Leckie</nume_membru>
-						<serie_ci>7</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Tommy Oar</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Tim_Cahill</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+					
 					
 					<sofer>
 						<nume_sofer>Ange_Postecoglou</nume_sofer>
@@ -919,31 +601,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>5</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Jordy_Clasie</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Marko_Vejinovic</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Wesley_Sneijder</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Memphis_Depay</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Arjen_Robben</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+					
 					
 					<sofer>
 						<nume_sofer>Guus_Hiddink</nume_sofer>
@@ -993,32 +651,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Juan_Mata</nume_membru>
-						<serie_ci>13</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Isco</nume_membru>
-						<serie_ci>22</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Thiago</nume_membru>
-						<serie_ci>14</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Pedro</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Diego_Costa</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					
+				
 					<sofer>
 						<nume_sofer>Vicente_del_Bosque</nume_sofer>
 					</sofer>
@@ -1054,31 +687,6 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<nume_membru>Charles_Aranguiz</nume_membru>
 						<serie_ci>20</serie_ci>
 						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Marcelo_Diaz</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Arturo Vidal</nume_membru>
-						<serie_ci>8</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Alexis_Sánchez</nume_membru>
-						<serie_ci>7</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Jorge_Valdivia</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Eduardo_Vargas</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Atacant</pozitie>
 					</membru>
 					
 					<sofer>
@@ -1133,31 +741,6 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Abel_Aguilar</nume_membru>
-						<serie_ci>8</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Carlos_Sanchez</nume_membru>
-						<serie_ci>6</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>James_Rodriguez</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Victor_Ibarbo</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Teofilo_Gutierrez</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
 					
 					<sofer>
 						<nume_sofer>Jose_Pekerman</nume_sofer>
@@ -1196,32 +779,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>21</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Dimitris_Salpingidis</nume_membru>
-						<serie_ci>14</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Giorgos_Samaras</nume_membru>
-						<serie_ci>7</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Panagiotis_Kone</nume_membru>
-						<serie_ci>8</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Giannis_Maniatis</nume_membru>
-						<serie_ci>2</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Theofanis_Gekas</nume_membru>
-						<serie_ci>17</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					
+
 					<sofer>
 						<nume_sofer>Fernando_Santos</nume_sofer>
 					</sofer>
@@ -1275,31 +833,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>3</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Cheick_Tiote</nume_membru>
-						<serie_ci>9</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Serey_Die</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Yaya_Toure</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Salomon_Kalou</nume_membru>
-						<serie_ci>8</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Wilfried_Bony</nume_membru>
-						<serie_ci>12</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+					
 					
 					<sofer>
 						<nume_sofer>Sabri_Lamouchi</nume_sofer>
@@ -1340,31 +874,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>16</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Makoto_Hasebe</nume_membru>
-						<serie_ci>17</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Shinji_Okazaki</nume_membru>
-						<serie_ci>9</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Keisuke_Honda</nume_membru>
-						<serie_ci>4</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Shinji_Kagawa</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Yuya_Osako</nume_membru>
-						<serie_ci>18</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+				
 					
 					<sofer>
 						<nume_sofer>Alberto_Zaccheroni</nume_sofer>
@@ -1419,31 +929,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Abel_Aguilar</nume_membru>
-						<serie_ci>8</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Carlos_Sanchez</nume_membru>
-						<serie_ci>6</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>James_Rodriguez</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Victor_Ibarbo</nume_membru>
-						<serie_ci>11</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Teofilo_Gutierrez</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+			
 					
 					<sofer>
 						<nume_sofer>Jose_Pekerman</nume_sofer>
@@ -1485,31 +971,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>3</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Cheick_Tiote</nume_membru>
-						<serie_ci>9</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Serey_Die</nume_membru>
-						<serie_ci>20</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Yaya_Toure</nume_membru>
-						<serie_ci>19</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Salomon_Kalou</nume_membru>
-						<serie_ci>8</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Wilfried_Bony</nume_membru>
-						<serie_ci>12</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+					
 					
 					<sofer>
 						<nume_sofer>Sabri_Lamouchi</nume_sofer>
@@ -1566,31 +1028,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>11</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Egidio Arevalo Rios</nume_membru>
-						<serie_ci>17</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Walter Gargano</nume_membru>
-						<serie_ci>7</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Cristian Rodriguez</nume_membru>
-						<serie_ci>8</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Diego Forlan</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Edinson Cavani</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+			
 					
 					<sofer>
 						<nume_sofer>Oscar Tabarez</nume_sofer>
@@ -1629,32 +1067,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>16</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Junior Diaz</nume_membru>
-						<serie_ci>15</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Celso Borges</nume_membru>
-						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Yeltsin Tejeda</nume_membru>
-						<serie_ci>17</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Bryan Ruiz</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Christian Bolanos</nume_membru>
-						<serie_ci>7</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					
+				
 					<sofer>
 						<nume_sofer>Jorge Luis Pinto</nume_sofer>
 					</sofer>
@@ -1707,31 +1120,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>16</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Jordan Henderson</nume_membru>
-						<serie_ci>15</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Danny Welbeck</nume_membru>
-						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Raheem Sterling</nume_membru>
-						<serie_ci>17</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Wayne Rooney</nume_membru>
-						<serie_ci>10</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Daniel Sturridge</nume_membru>
-						<serie_ci>7</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
+					
 					
 					<sofer>
 						<nume_sofer>Roy Hodgson</nume_sofer>
@@ -1770,32 +1159,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 						<serie_ci>3</serie_ci>
 						<pozitie>Mijlocas</pozitie>
 					</membru>
-					<membru>
-						<nume_membru>Claudio Marchisio</nume_membru>
-						<serie_ci>8</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Daniele De Rossi</nume_membru>
-						<serie_ci>16</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Marco Verratti</nume_membru>
-						<serie_ci>23</serie_ci>
-						<pozitie>Mijlocas</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Andrea Pirlo</nume_membru>
-						<serie_ci>21</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					<membru>
-						<nume_membru>Antonio Candreva</nume_membru>
-						<serie_ci>7</serie_ci>
-						<pozitie>Atacant</pozitie>
-					</membru>
-					
+		
 					<sofer>
 						<nume_sofer>Cesare Prandelli</nume_sofer>
 					</sofer>
