@@ -26,7 +26,7 @@ elementFormDefault="qualified">
 													<xs:complexType>
 														<xs:sequence>
 															<xs:element name="nume_echipa" type="xs:string"/>
-															<xs:element name="mambru" maxOccurs="11">
+															<xs:element name="membru" maxOccurs="11">
 																<xs:complexType>
 																	<xs:sequence>
 																		<xs:element name="nume_membru">

@@ -44,7 +44,7 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 					</membru>
 
 					<sofer>
-						<nume_sofer>Dunga</nume_sofer>
+						<nume_sofer>Ionel Ion</nume_sofer>
 					</sofer>
 				</echipa>
 				<echipa>
@@ -86,8 +86,8 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 				</echipa>
 				<locatie>
 					<adresa>Republica,Faur 12</adresa>
-					<oras>Sao_Paulo</oras>
-					<capacitate>46116</capacitate>
+					<oras>Bucuresti</oras>
+					<capacitate>46</capacitate>
 				</locatie>
 				<persoana_de_contact>
 					<nume_persoana_de_contact>Sandra Gheorghe</nume_persoana_de_contact>
