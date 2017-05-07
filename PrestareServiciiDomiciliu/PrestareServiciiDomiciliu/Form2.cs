@@ -68,7 +68,7 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
             dataGridView1.ColumnCount = 1;
-            dataGridView1.Columns[0].Name = "Membrii echipei de curatenie";
+            dataGridView1.Columns[0].Name = "Echipe de curatenie";
 
             CautaEchipe();
 
@@ -86,7 +86,7 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
             dataGridView1.ColumnCount = 1;
-            dataGridView1.Columns[0].Name = "Membrii echipei de coafura";
+            dataGridView1.Columns[0].Name = "Echipe de coafura";
 
             CautaEchipe();
 
@@ -105,7 +105,7 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
             dataGridView1.ColumnCount = 1;
-            dataGridView1.Columns[0].Name = "Membrii echipa amenajari interioare";
+            dataGridView1.Columns[0].Name = "Echipe amenajari interioare";
 
             CautaEchipe();
 
@@ -123,7 +123,7 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
             dataGridView1.ColumnCount = 1;
-            dataGridView1.Columns[0].Name = "Membrii echipa salon";
+            dataGridView1.Columns[0].Name = "Echipe salon";
 
             CautaEchipe();
 
@@ -140,6 +140,11 @@ namespace PrestareServiciiDomiciliu
         {
             Hide();
             new Form1().Show();
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

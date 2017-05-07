@@ -15,32 +15,32 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 					<membru>
 						<nume_membru>Ion Ion</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Menajer</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Daniel_Alves</nume_membru>
+						<nume_membru>Daniel Ion</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Gradinar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Miranda </nume_membru>
+						<nume_membru>Miranda Daniela </nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>David_Luiz</nume_membru>
+						<nume_membru>David Ionela</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Filipe_Luís</nume_membru>
+						<nume_membru>Luiza Simion</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera/Leader</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Fernandinho</nume_membru>
+						<nume_membru>Ioana Ion</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 
 					<sofer>

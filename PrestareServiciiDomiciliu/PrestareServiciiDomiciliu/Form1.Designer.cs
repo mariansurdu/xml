@@ -43,9 +43,9 @@
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.button1 = new System.Windows.Forms.Button();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.button4 = new System.Windows.Forms.Button();
             this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
@@ -180,9 +180,9 @@
             this.label1.Location = new System.Drawing.Point(278, 28);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(417, 20);
+            this.label1.Size = new System.Drawing.Size(408, 20);
             this.label1.TabIndex = 24;
-            this.label1.Text = "Bine ati venit in prestare la domiciuliu services! :)Va oferim:";
+            this.label1.Text = "Bine ati venit in prestare la domiciliu services! :)Va oferim:";
             // 
             // pictureBox5
             // 
@@ -218,6 +218,15 @@
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Afisare raport";
             // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(682, 459);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(75, 29);
+            this.button4.TabIndex = 2;
+            this.button4.Text = "Iesire";
+            this.button4.UseVisualStyleBackColor = true;
+            // 
             // webBrowser1
             // 
             this.webBrowser1.Location = new System.Drawing.Point(3, 3);
@@ -235,15 +244,6 @@
             this.button3.Text = "Detalii companie";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(682, 459);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 29);
-            this.button4.TabIndex = 2;
-            this.button4.Text = "Iesire";
-            this.button4.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
