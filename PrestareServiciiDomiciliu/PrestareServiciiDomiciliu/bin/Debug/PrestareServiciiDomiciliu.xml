@@ -13,84 +13,84 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 				<echipa>
 					<nume_echipa>Curatenie1</nume_echipa>
 					<membru>
-						<nume_membru>Ion Ion</nume_membru>
+						<nume_membru>Andreea Alexe</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Menajer</pozitie>
+						<pozitie>Responsabil Echipa</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Daniel Ion</nume_membru>
+						<nume_membru>Maria Burciu</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Gradinar</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Miranda Daniela </nume_membru>
+						<nume_membru>Raluca Cristea</nume_membru>
 						<serie_ci>3</serie_ci>
 						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>David Ionela</nume_membru>
+						<nume_membru>Andrei Badea</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Menajera</pozitie>
+						<pozitie>Gradinar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Luiza Simion</nume_membru>
+						<nume_membru>Alexandru Matache</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Menajera/Leader</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Ioana Ion</nume_membru>
+						<nume_membru>Antoneta Sandu</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Menajera</pozitie>
+						<pozitie>Calcat Rufe</pozitie>
 					</membru>
 
 					<sofer>
-						<nume_sofer>Ionel Ion</nume_sofer>
+						<nume_sofer>Doru Aldea</nume_sofer>
 					</sofer>
 				</echipa>
 				<echipa>
 					<nume_echipa>Best Cleaning</nume_echipa>
 					<membru>
-						<nume_membru>Ivan Vargic</nume_membru>
+						<nume_membru>Matei Basarab</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Responsabil Echipa</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Sime_Vrsaljko</nume_membru>
+						<nume_membru>Cristi Ciurea</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Gradinar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Goran_Milovic</nume_membru>
+						<nume_membru>Mihaela Dublea</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Calcat Rufe</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Darjo_Srna</nume_membru>
+						<nume_membru>Marius Ragu</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Marko_Leskovic</nume_membru>
+						<nume_membru>Madalina Culea</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Ivan_Perisic</nume_membru>
+						<nume_membru>Bogdan Iurie</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Responsabil Piscina</pozitie>
 					</membru>
 				
 					<sofer>
-						<nume_sofer>Niko_Kovac</nume_sofer>
+						<nume_sofer>Paul Androne</nume_sofer>
 					</sofer>
 				</echipa>
 				<locatie>
 					<adresa>Republica,Faur 12</adresa>
 					<oras>Bucuresti</oras>
-					<capacitate>46</capacitate>
+					<capacitate>46116</capacitate>
 				</locatie>
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Sandra Gheorghe</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Adriana Rusu</nume_persoana_de_contact>
 				</persoana_de_contact>
 				<data_assign val = "21/03/2017"/>
 			</assignment>
@@ -99,84 +99,84 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 				<echipa>
 					<nume_echipa>Cleaning safe</nume_echipa>
 					<membru>
-						<nume_membru>Jose_Corona</nume_membru>
+						<nume_membru>Robert Martinescu</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Responsabil Echipa</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Paul_Aguilar</nume_membru>
+						<nume_membru>Marta Dobre</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Calcat Rufe</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Y_Corona </nume_membru>
+						<nume_membru>Berta Craciunescu</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>R_Marquez</nume_membru>
+						<nume_membru>Martin Nita</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Gradinar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Filipe_Luis</nume_membru>
+						<nume_membru>Carla Visinoiu</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>D_Reyes</nume_membru>
+						<nume_membru>Paula Umgureanu</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 
 					
 					<sofer>
-						<nume_sofer>Miguel_Herrera</nume_sofer>
+						<nume_sofer>Rebeca Dumitru</nume_sofer>
 					</sofer>
 				</echipa>
 				<echipa>
 					<nume_echipa>Cleaning now!</nume_echipa>
 					<membru>
-						<nume_membru>Charles_Itandje</nume_membru>
+						<nume_membru>Paul Vis</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Gradinar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Benoit_Assou_Ekotto</nume_membru>
+						<nume_membru>Stanca Perdun</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Responsabil Echipa</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Nicolas_Koulou</nume_membru>
+						<nume_membru>Valentina Iuga</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Cedric_Djeugoue</nume_membru>
+						<nume_membru>Radu Beluciu</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Calcat Rufe</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Dany_Nounkeu</nume_membru>
+						<nume_membru>Daniela Robu</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Jean_Makoun</nume_membru>
+						<nume_membru>Nicoleta Nuta</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<sofer>
-						<nume_sofer>Volker_Finke</nume_sofer>
+						<nume_sofer>Carmen Voinea</nume_sofer>
 					</sofer>
 				</echipa>
 				<locatie>
 					<adresa>Bucuresti Ploiesti 44-46</adresa>
-					<oras>Natal</oras>
+					<oras>Bucuresti</oras>
 					<capacitate>46116</capacitate>
 				</locatie>
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Ionut Marian</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Eugen Popa</nume_persoana_de_contact>
 				</persoana_de_contact>
 				<data_assign val = "22/04/2017"/>
 			</assignment>
@@ -185,84 +185,84 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 				<echipa>
 					<nume_echipa>Cleaning good</nume_echipa>
 					<membru>
-						<nume_membru>Jefferson</nume_membru>
+						<nume_membru>Andrei Onofrei</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Daniel_Alves</nume_membru>
+						<nume_membru>Daniel Rusu</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Gradinar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Miranda </nume_membru>
+						<nume_membru>Miruna Ducu </nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Responsabil Echipa</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>David_Luiz</nume_membru>
+						<nume_membru>Andra Bega</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Calcat Rufe</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Filipe_Luis</nume_membru>
+						<nume_membru>Cristina Eremia</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Fernandinho</nume_membru>
+						<nume_membru>Francisca Grigore</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 
 					
 					<sofer>
-						<nume_sofer>Dunga</nume_sofer>
+						<nume_sofer>Matei Ursu</nume_sofer>
 					</sofer>
 				</echipa>
 				<echipa>
 					<nume_echipa>Cleaning now</nume_echipa>
 					<membru>
-						<nume_membru> Jose_Corona</nume_membru>
+						<nume_membru>Marius Sofron</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Responsabil Echipa</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Paul_Aguilar</nume_membru>
+						<nume_membru>Grigore Albu</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Gradinar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Y_Corona </nume_membru>
+						<nume_membru>Irina Mutu</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>R_Marquez</nume_membru>
+						<nume_membru>Carolina Mugur</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Calcat Rufe</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Filipe_Luis</nume_membru>
+						<nume_membru>Filip Andrei</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>D_Reyes</nume_membru>
+						<nume_membru>Raluca Vlad</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<sofer>
-						<nume_sofer>Miguel_Herrera</nume_sofer>
+						<nume_sofer>Diana Tudor</nume_sofer>
 					</sofer>
 				</echipa>
 				<locatie>
 					<adresa>Splaiul unirii 32</adresa>
-					<oras>Fortaleza</oras>
+					<oras>Cluj</oras>
 					<capacitate>46116</capacitate>
 				</locatie>
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Ion Marius</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Ana Ciucure</nume_persoana_de_contact>
 				</persoana_de_contact>
 				<data_assign val = "21/02/2018"/>
 			</assignment>
@@ -270,85 +270,85 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 				<echipa>
 					<nume_echipa>Cleaning now</nume_echipa>
 					<membru>
-						<nume_membru>Charles_Itandje</nume_membru>
+						<nume_membru>Indrie Anton</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Gradinar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Benoit_Assou_Ekotto</nume_membru>
+						<nume_membru>Alexandru Chirita</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Responsabil Piscina</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Nicolas_Koulou</nume_membru>
+						<nume_membru>Andreea Niculescu</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Responsabil Echipa</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Cedric_Djeugoue</nume_membru>
+						<nume_membru>Marcela Iancu</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Dany_Nounkeu</nume_membru>
+						<nume_membru>Adriana Dan</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Jean_Makoun</nume_membru>
+						<nume_membru>Cristina Rosu</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 
 					
 					<sofer>
-						<nume_sofer>Volker_Finke</nume_sofer>
+						<nume_sofer>Darius Visan</nume_sofer>
 					</sofer>
 				</echipa>
 				<echipa>
 					<nume_echipa>Safe clean</nume_echipa>
 					<membru>
-						<nume_membru>Ivan_Vargic</nume_membru>
+						<nume_membru>Andi Marculescu</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Responsabil Echipa</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Sime_Vrsaljko</nume_membru>
+						<nume_membru>Adriana Marcu</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Calcat Rufe</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Goran_Milovic</nume_membru>
+						<nume_membru>Andreea Bucur</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Gradinar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Darjo_Srna</nume_membru>
+						<nume_membru>Laura Toma</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Marko_Leskovic</nume_membru>
+						<nume_membru>Florentina Raicu</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Ivan_Perisic</nume_membru>
+						<nume_membru>Paula Ivan</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Menajera</pozitie>
 					</membru>
 
 					<sofer>
-						<nume_sofer>Niko_Kovac</nume_sofer>
+						<nume_sofer>Vlad Dumitru</nume_sofer>
 					</sofer>
 				</echipa>
 				<locatie>
 					<adresa>Splaiul unirii 12</adresa>
-					<oras>Manaus</oras>
+					<oras>Timisoara</oras>
 					<capacitate>39116</capacitate>
 				</locatie>
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Gheorghe Ion</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Ariana Bratu</nume_persoana_de_contact>
 				</persoana_de_contact>
 				<data_assign val = "22/05/2017"/>
 			</assignment>
@@ -359,85 +359,85 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 				<echipa>
 					<nume_echipa>Hairdress</nume_echipa>
 					<membru>
-						<nume_membru>Sergio_Rico</nume_membru>
+						<nume_membru>Dan-Petre Vlad</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Sergio_Ramos</nume_membru>
+						<nume_membru>Andrei Iurie</nume_membru>
 						<serie_ci>15</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Gerard_Pique</nume_membru>
+						<nume_membru>Andreea Matei</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Frizer</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Jordi_Alba</nume_membru>
+						<nume_membru>Ana Raicu</nume_membru>
 						<serie_ci>18</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Juanfran</nume_membru>
+						<nume_membru>Matei Andreescu</nume_membru>
 						<serie_ci>16</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>David_Silva</nume_membru>
+						<nume_membru>Bogdan Andrei</nume_membru>
 						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Frizer</pozitie>
 					</membru>
 
 					<sofer>
-						<nume_sofer>Vicente_del_Bosque</nume_sofer>
+						<nume_sofer>Antonio Bratu</nume_sofer>
 					</sofer>
 				</echipa>
 				<echipa>
 					<nume_echipa>Hair and massage</nume_echipa>
 					<membru>
-						<nume_membru>Jeroen_Zoet</nume_membru>
+						<nume_membru>Alexandru Macovei</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Maseur</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Daley_Blind</nume_membru>
+						<nume_membru>Maria Anton</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Erik_Pieters</nume_membru>
+						<nume_membru>Marius Popa</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Frizer</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Kenny_Tete</nume_membru>
+						<nume_membru>Radu Beligan</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Terence_Kongolo</nume_membru>
+						<nume_membru>Cristian Martinescu</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Georginio_Wijnaldum</nume_membru>
+						<nume_membru>Dana Visan</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Frizer</pozitie>
 					</membru>
 
 					
 					<sofer>
-						<nume_sofer>Guus_Hiddink</nume_sofer>
+						<nume_sofer>Ina Grigore</nume_sofer>
 					</sofer>
 				</echipa>
 				<locatie>
-					<adresa>Tineretului 239</adresa>
-					<oras>Salvador</oras>
+					<adresa>Tineretului 7</adresa>
+					<oras>Bucuresti</oras>
 					<capacitate>55000</capacitate>
 				</locatie>
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Vasile Ionut</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Ana-Maria Ruse</nume_persoana_de_contact>
 				</persoana_de_contact>
 				<data_assign val = "21/02/2019"/>
 			</assignment>
@@ -446,86 +446,86 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 				<echipa>
 					<nume_echipa>Hair and body</nume_echipa>
 					<membru>
-						<nume_membru>Claudio_Bravo</nume_membru>
+						<nume_membru>Claudiu Petre</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Body Lifting</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Mauricio_Isla</nume_membru>
+						<nume_membru>Isabela Badea</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Maseur</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Gary_Medel</nume_membru>
+						<nume_membru>Marcel Nedelcu</nume_membru>
 						<serie_ci>17</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Frizer</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Gonzalo_Jara</nume_membru>
+						<nume_membru>Andrei Gabriel</nume_membru>
 						<serie_ci>18</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Eugenio_Mena</nume_membru>
+						<nume_membru>Andreea Grigore</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Charles_Aranguiz</nume_membru>
+						<nume_membru>Adrian Vlad</nume_membru>
 						<serie_ci>20</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 				
 					
 					<sofer>
-						<nume_sofer>Jorge_Sampaoli</nume_sofer>
+						<nume_sofer>Victoe Marin</nume_sofer>
 					</sofer>
 				</echipa>
 				<echipa>
 					<nume_echipa>Hair and more</nume_echipa>
 					<membru>
-						<nume_membru>Mathew_Ryan</nume_membru>
+						<nume_membru>Marcel Naum</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Ivan_Franjic</nume_membru>
+						<nume_membru>Diana Visan</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Alex_Wilkinson</nume_membru>
+						<nume_membru>Alex Iurie</nume_membru>
 						<serie_ci>22</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Frizer</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Matthew_Spiranovic</nume_membru>
+						<nume_membru>Isa Nae</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Maseur</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Dany_Nounkeu</nume_membru>
+						<nume_membru>Rebeca Popa</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Jason_Davidson</nume_membru>
+						<nume_membru>Mircea Radu</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					
 					
 					<sofer>
-						<nume_sofer>Ange_Postecoglou</nume_sofer>
+						<nume_sofer>Andrei Vicol</nume_sofer>
 					</sofer>
 				</echipa>				
 				<locatie>
 					<adresa>Regie 12</adresa>
-					<oras>Cuiaba</oras>
+					<oras>Bucuresti</oras>
 					<capacitate>42500</capacitate>
 				</locatie>				
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Ioana Floarea</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Andra Alexa</nume_persoana_de_contact>
 				</persoana_de_contact>				
 				<data_assign val = "24/03/2017"/>
 			</assignment>			
@@ -534,86 +534,86 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 				<echipa>
 					<nume_echipa>Hair safe</nume_echipa>
 					<membru>
-						<nume_membru>Mathew_Ryan</nume_membru>
+						<nume_membru>Matei Dobre</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Ivan_Franjic</nume_membru>
+						<nume_membru>Darius Iurie</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Frizer</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Alex_Wilkinson</nume_membru>
+						<nume_membru>Alex Visan</nume_membru>
 						<serie_ci>22</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Matthew_Spiranovic</nume_membru>
+						<nume_membru>Daniel Faur</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Dany_Nounkeu</nume_membru>
+						<nume_membru>Laura Stoian</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Jason_Davidson</nume_membru>
+						<nume_membru>Georgiana Nuca</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					
 					
 					<sofer>
-						<nume_sofer>Ange_Postecoglou</nume_sofer>
+						<nume_sofer>Anton Aldea</nume_sofer>
 					</sofer>				
 				</echipa>				
 				<echipa>
 					<nume_echipa>Hair and more</nume_echipa>
 					<membru>
-						<nume_membru>Jeroen_Zoet</nume_membru>
+						<nume_membru>Enache Eremia</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Daley_Blind</nume_membru>
+						<nume_membru>Eugen Iurie</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Erik_Pieters</nume_membru>
+						<nume_membru>Eduard Matei</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Frizer</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Kenny_Tete</nume_membru>
+						<nume_membru>Emilia Minea</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Frizer</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Terence_Kongolo</nume_membru>
+						<nume_membru>Himena Jilbea</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Georginio_Wijnaldum</nume_membru>
+						<nume_membru>Georgian Nita</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					
 					
 					<sofer>
-						<nume_sofer>Guus_Hiddink</nume_sofer>
+						<nume_sofer>Paul Gherasim</nume_sofer>
 					</sofer>
 				</echipa>				
 				<locatie>
 					<adresa>Unirii 21</adresa>
-					<oras>Porto_Alegre</oras>
+					<oras>Timisoara</oras>
 					<capacitate>51300</capacitate>
 				</locatie>			
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Floricel Ion</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Florin Cucu</nume_persoana_de_contact>
 				</persoana_de_contact>			
 				<data_assign val = "25/09/2017"/>
 			</assignment>			
@@ -622,84 +622,84 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 					<nume_echipa>Hairdress</nume_echipa>
 					
 					<membru>
-						<nume_membru>Sergio_Rico</nume_membru>
+						<nume_membru>Sergiu Raica</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Sergio_Ramos</nume_membru>
+						<nume_membru>Carla Martinescu</nume_membru>
 						<serie_ci>15</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Frizer</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Gerard_Piqué</nume_membru>
+						<nume_membru>Mihaela Dumbrava</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Jordi_Alba</nume_membru>
+						<nume_membru>Andrei Jinga</nume_membru>
 						<serie_ci>18</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Juanfran</nume_membru>
+						<nume_membru>Ana-Maria Gramanski</nume_membru>
 						<serie_ci>16</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>David_Silva</nume_membru>
+						<nume_membru>David Gueta</nume_membru>
 						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 				
 					<sofer>
-						<nume_sofer>Vicente_del_Bosque</nume_sofer>
+						<nume_sofer>Alexandru Beluciu</nume_sofer>
 					</sofer>
 				</echipa>				
 				<echipa>
 					<nume_echipa>Hair safe</nume_echipa>
 					<membru>
-						<nume_membru>Claudio_Bravo</nume_membru>
+						<nume_membru>Robert Anton</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Mauricio_Isla</nume_membru>
+						<nume_membru>Ioan Popa</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Gary_Medel</nume_membru>
+						<nume_membru>Gabriel Guminski</nume_membru>
 						<serie_ci>17</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Frizer</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Gonzalo_Jara</nume_membru>
+						<nume_membru>Monica Olaru</nume_membru>
 						<serie_ci>18</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Stylist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Eugenio_Mena</nume_membru>
+						<nume_membru>Eugen Macovei</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Samponez</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Charles_Aranguiz</nume_membru>
+						<nume_membru>Cristi Velea</nume_membru>
 						<serie_ci>20</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Frizer</pozitie>
 					</membru>
 					
 					<sofer>
-						<nume_sofer>Jorge_Sampaoli</nume_sofer>
+						<nume_sofer>Doru Ivan</nume_sofer>
 					</sofer>
 				</echipa>				
 				<locatie>
 					<adresa>Ferentari 12</adresa>
-					<oras>Rio_de_Janeiro</oras>
+					<oras>Bucuresti</oras>
 					<capacitate>78838</capacitate>
 				</locatie>				
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Ionel Marcel</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Nicoleta Filip</nume_persoana_de_contact>
 				</persoana_de_contact>				
 				<data_assign val = "24/05/2019"/>
 			</assignment>			
@@ -712,87 +712,87 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 				<echipa>
 					<nume_echipa>Amenajari</nume_echipa>
 					<membru>
-						<nume_membru>David_Ospina</nume_membru>
+						<nume_membru>Georgiana Matei</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Proiectant</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Juan_Camilo</nume_membru>
+						<nume_membru>Eugen Pop</nume_membru>
 						<serie_ci>18</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Zugrav</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Cristian_Zapata</nume_membru>
+						<nume_membru>Andreea Naum</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Peisagist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Mario_Yepes</nume_membru>
+						<nume_membru>Marcel Nedelcu</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Zugrav</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Pablo_Armero</nume_membru>
+						<nume_membru>Paul Albu</nume_membru>
 						<serie_ci>7</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Gradinar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Juan_Guillermo</nume_membru>
+						<nume_membru>Iulian Macovei</nume_membru>
 						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Tamplar</pozitie>
 					</membru>
 					
 					<sofer>
-						<nume_sofer>Jose_Pekerman</nume_sofer>
+						<nume_sofer>Relu Dobre</nume_sofer>
 					</sofer>
 				</echipa>
 				
 				<echipa>
 					<nume_echipa>Zugravit</nume_echipa>
 					<membru>
-						<nume_membru>Orestis_Karnezis</nume_membru>
+						<nume_membru>Lucian Grigore</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Proiectant</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Vasilis_Torosidis</nume_membru>
+						<nume_membru>Vasile Faur</nume_membru>
 						<serie_ci>15</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Zugrav</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Kostas_Manolas</nume_membru>
+						<nume_membru>Anca Lica</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Peisagist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Sokratis_Papastathopoulo</nume_membru>
+						<nume_membru>Sandu Bratu</nume_membru>
 						<serie_ci>19</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Tamplar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Jose_Holebas</nume_membru>
+						<nume_membru>Iulian Jinga</nume_membru>
 						<serie_ci>20</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Gradinar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Kostas_Katsouranis</nume_membru>
+						<nume_membru>Ioan Himena</nume_membru>
 						<serie_ci>21</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Zugrav</pozitie>
 					</membru>
 
 					<sofer>
-						<nume_sofer>Fernando_Santos</nume_sofer>
+						<nume_sofer>Felix Dobre</nume_sofer>
 					</sofer>
 				</echipa>
 				
 				<locatie>
 					<adresa>Aviatorilor 239</adresa>
-					<oras>Belo_Horizonte</oras>
+					<oras>Bucuresti</oras>
 					<capacitate>57300</capacitate>
 				</locatie>
 				
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Stancu Ion</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Nicolae Stroe</nume_persoana_de_contact>
 				</persoana_de_contact>
 				
 				<data_assign val = "10/2/2017"/>
@@ -804,39 +804,39 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 					<nume_echipa>Parchet si podele</nume_echipa>
 					
 					<membru>
-						<nume_membru>Boubacar_Barry</nume_membru>
+						<nume_membru>Robert Anton</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Proiectant</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Juan_Camilo</nume_membru>
+						<nume_membru>Iurie Ivan</nume_membru>
 						<serie_ci>18</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Tamplar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Serge_Aurier</nume_membru>
+						<nume_membru>Radu Macovei</nume_membru>
 						<serie_ci>17</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Responsabil Echipa</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Didier_Zokora</nume_membru>
+						<nume_membru>Andrei Sima</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Muncitor Executant</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Sol_Bamba</nume_membru>
+						<nume_membru>Tudor Ursu</nume_membru>
 						<serie_ci>22</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Tamplar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Arthur_Boka</nume_membru>
+						<nume_membru>Georgian Alexe</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Muncitor Executant</pozitie>
 					</membru>
 					
 					
 					<sofer>
-						<nume_sofer>Sabri_Lamouchi</nume_sofer>
+						<nume_sofer>Dan Cristea</nume_sofer>
 					</sofer>
 				</echipa>
 				
@@ -845,50 +845,50 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 					<nume_echipa>Instalatie electrica</nume_echipa>
 					
 					<membru>
-						<nume_membru>Eiji_Kawashima</nume_membru>
+						<nume_membru>Mihai Enache</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Proiectant</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Atsuto_Uchida</nume_membru>
+						<nume_membru>Paul Radu</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Electrician</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Maya_Yoshida</nume_membru>
+						<nume_membru>Mircea Aldea</nume_membru>
 						<serie_ci>22</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Electrician</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Masato_Morishige</nume_membru>
+						<nume_membru>Marius Vicol</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Muncitor Executant</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Yuto_Nagatomo</nume_membru>
+						<nume_membru>Stefan Albert</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Responsabil Echipa</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Hotaru_Yamaguchi</nume_membru>
+						<nume_membru>Stefan Munteanu</nume_membru>
 						<serie_ci>16</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Muncitor Executant</pozitie>
 					</membru>
 				
 					
 					<sofer>
-						<nume_sofer>Alberto_Zaccheroni</nume_sofer>
+						<nume_sofer>Florin Alixandru</nume_sofer>
 					</sofer>
 				</echipa>
 				
 				<locatie>
 					<adresa>Pipera 70</adresa>
-					<oras>Recife</oras>
+					<oras>Bucuresti</oras>
 					<capacitate>46160</capacitate>
 				</locatie>
 				
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Ionela Gheo</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Iulia Albu</nume_persoana_de_contact>
 				</persoana_de_contact>
 				
 				<data_assign val = "11/2/2017"/>
@@ -900,39 +900,39 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 					<nume_echipa>Instalatii electrice</nume_echipa>
 					
 					<membru>
-						<nume_membru>David_Ospina</nume_membru>
+						<nume_membru>David Oprisan</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Proiectant</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Juan_Camilo</nume_membru>
+						<nume_membru>Ioan Dobre</nume_membru>
 						<serie_ci>18</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Electrician</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Cristian_Zapata</nume_membru>
+						<nume_membru>Cristi Mircea</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Muncitor Executant</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Mario_Yepes</nume_membru>
+						<nume_membru>Andrei Alexe</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Responsabil Echipa</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Pablo_Armero</nume_membru>
+						<nume_membru>Artur Martin</nume_membru>
 						<serie_ci>7</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Electrician</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Juan_Guillermo</nume_membru>
+						<nume_membru>Dan Jilbea</nume_membru>
 						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Muncitor Executant</pozitie>
 					</membru>
 			
 					
 					<sofer>
-						<nume_sofer>Jose_Pekerman</nume_sofer>
+						<nume_sofer>Traian Enache</nume_sofer>
 					</sofer>
 					
 				</echipa>
@@ -942,49 +942,49 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 					<nume_echipa>Parchet si podele</nume_echipa>
 					
 					<membru>
-						<nume_membru>Boubacar_Barry</nume_membru>
+						<nume_membru>Alexandru Luchian</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Tamplar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Juan_Camilo</nume_membru>
+						<nume_membru>Bogdan Ruste</nume_membru>
 						<serie_ci>18</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Responsabil Echipa</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Serge_Aurier</nume_membru>
+						<nume_membru>Sergiu Dan</nume_membru>
 						<serie_ci>17</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Tamplar</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Didier_Zokora</nume_membru>
+						<nume_membru>Ionel Augustin</nume_membru>
 						<serie_ci>5</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Muncitor Executant</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Sol_Bamba</nume_membru>
+						<nume_membru>Sandu Martinescu</nume_membru>
 						<serie_ci>22</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Muncitor Executant</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Arthur_Boka</nume_membru>
+						<nume_membru>Florin Cristea</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Proiectant</pozitie>
 					</membru>
 					
 					
 					<sofer>
-						<nume_sofer>Sabri_Lamouchi</nume_sofer>
+						<nume_sofer>George Florescu</nume_sofer>
 					</sofer>
 				</echipa>
 				<locatie>
 					<adresa>Grozavesti 12</adresa>
-					<oras>Brasilia</oras>
+					<oras>Bucuresti</oras>
 					<capacitate>69160</capacitate>
 				</locatie>
 				
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Gigel Frone</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Andrei Ruste</nume_persoana_de_contact>
 				</persoana_de_contact>
 				
 				<data_assign val = "12/2/2017"/>
@@ -999,88 +999,88 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 				<echipa>
 					<nume_echipa>Manichiura</nume_echipa>
 					<membru>
-						<nume_membru>Fernando Muslera</nume_membru>
+						<nume_membru>Andreea Topescu</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Manechiurista Semipermanent</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Maxi Pereira</nume_membru>
+						<nume_membru>Raluca Dobre</nume_membru>
 						<serie_ci>16</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Manechiurista Gel</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Diego Lugano</nume_membru>
+						<nume_membru>Lucia Radu</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Intretinere Gel</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Diego Godin</nume_membru>
+						<nume_membru>Diana Savu</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Manechiurista Clasic</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Martin Caceres</nume_membru>
+						<nume_membru>Marta Nuca</nume_membru>
 						<serie_ci>22</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Pedichiurista</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Christian Stuani</nume_membru>
+						<nume_membru>Cristina Bratu</nume_membru>
 						<serie_ci>11</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Manechiurista Clasic</pozitie>
 					</membru>
 			
 					
 					<sofer>
-						<nume_sofer>Oscar Tabarez</nume_sofer>
+						<nume_sofer>Oana Jinga</nume_sofer>
 					</sofer>
 				</echipa>
 				
 				<echipa>
 					<nume_echipa>Pedichiura</nume_echipa>
 					<membru>
-						<nume_membru>Keylor Navas</nume_membru>
+						<nume_membru>Paul Nisioiu</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Pedichiurista Semipermanent</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Oscar Duarte</nume_membru>
+						<nume_membru>Ana Matei</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Pedichiurista Clasic</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Giancarlo Gonzalez</nume_membru>
+						<nume_membru>Andreea Dan</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Pedichiurista Gel</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Joel Campbell</nume_membru>
+						<nume_membru>Laura Faur</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Intretinere Gel</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Michael Umana</nume_membru>
+						<nume_membru>Petra Martinescu</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Manechiurista</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Cristian Gamboa</nume_membru>
+						<nume_membru>Diana Grigore</nume_membru>
 						<serie_ci>16</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Pedichiurista Clasic</pozitie>
 					</membru>
 				
 					<sofer>
-						<nume_sofer>Jorge Luis Pinto</nume_sofer>
+						<nume_sofer>Dan Petre</nume_sofer>
 					</sofer>
 				</echipa>
 				
 				<locatie>
 					<adresa>Crangasi 13</adresa>
-					<oras>Fortaleza</oras>
+					<oras>Bucuresti</oras>
 					<capacitate>58360</capacitate>
 				</locatie>
 				
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Ioana Luiza Ion</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Ioana Luchian</nume_persoana_de_contact>
 				</persoana_de_contact>
 				
 				<data_assign val = "9/2/2017"/>
@@ -1091,87 +1091,87 @@ xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
 				<echipa>
 					<nume_echipa>Masaj</nume_echipa>
 					<membru>
-						<nume_membru>Joe Hart</nume_membru>
+						<nume_membru>Luiza Munteanu</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Maseuza</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Glen Johnson</nume_membru>
+						<nume_membru>Lucian Matache</nume_membru>
 						<serie_ci>2</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Maseur Specialist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Gary Cahill</nume_membru>
+						<nume_membru>Andreea Lica</nume_membru>
 						<serie_ci>6</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Preparator</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Phil Jagielka</nume_membru>
+						<nume_membru>Filip Androne</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Maseur</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Leighton Baines</nume_membru>
+						<nume_membru>Maria Dublea</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Maseuza Specialist</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Steven Gerrard</nume_membru>
+						<nume_membru>Eugen Sergiu</nume_membru>
 						<serie_ci>16</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Preparator</pozitie>
 					</membru>
 					
 					
 					<sofer>
-						<nume_sofer>Roy Hodgson</nume_sofer>
+						<nume_sofer>Adriana Datcu</nume_sofer>
 					</sofer>
 				</echipa>
 				
 				<echipa>
 					<nume_echipa>Relaxare..manichiura..pedichiura</nume_echipa>
 					<membru>
-						<nume_membru>Salvatore Sirigu</nume_membru>
+						<nume_membru>Stanca Faur</nume_membru>
 						<serie_ci>1</serie_ci>
-						<pozitie>Portar</pozitie>
+						<pozitie>Maseuza</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Matteo Darmian</nume_membru>
+						<nume_membru>Raluca Dan</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Manechiurista</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Andrea Barzagli</nume_membru>
+						<nume_membru>Andreea Petre</nume_membru>
 						<serie_ci>15</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Pedichiurista</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Gabriel Paletta</nume_membru>
+						<nume_membru>Gabriel Paul</nume_membru>
 						<serie_ci>20</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Maseur</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Mario Balotelli</nume_membru>
+						<nume_membru>Mihaela Nica</nume_membru>
 						<serie_ci>4</serie_ci>
-						<pozitie>Fundas</pozitie>
+						<pozitie>Manechiurista</pozitie>
 					</membru>
 					<membru>
-						<nume_membru>Giorgio Chiellini</nume_membru>
+						<nume_membru>Paula Tudor</nume_membru>
 						<serie_ci>3</serie_ci>
-						<pozitie>Mijlocas</pozitie>
+						<pozitie>Pedichiurista</pozitie>
 					</membru>
 		
 					<sofer>
-						<nume_sofer>Cesare Prandelli</nume_sofer>
+						<nume_sofer>Nicoleta Pana</nume_sofer>
 					</sofer>
 				</echipa>
 				<locatie>
 					<adresa>Basarab 12</adresa>
-					<oras>Manaus</oras>
+					<oras>Bucuresti</oras>
 					<capacitate>40800</capacitate>
 				</locatie>
 				
 				<persoana_de_contact>
-					<nume_persoana_de_contact>Alexandra Ion</nume_persoana_de_contact>
+					<nume_persoana_de_contact>Alexandra Lica</nume_persoana_de_contact>
 				</persoana_de_contact>
 				
 				<data_assign val = "19/2/2017"/>

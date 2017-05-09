@@ -23,26 +23,26 @@ namespace PrestareServiciiDomiciliu
 
         static List<string> nume = new List<string>();
 
-        public Form2()  // se va afisa anul campionatului si tara gazda
+        public Form2()  // initializare Form2
         {
             InitializeComponent();
+            //functie cu rolul de incarcare a fisierului XML
+            doc.Load("PrestareServiciiDomiciliu.xml"); 
 
-            doc.Load("PrestareServiciiDomiciliu.xml"); //se incarca fisierul /xml
-
-            XmlNodeList elemList = doc.GetElementsByTagName("planificare");  //se cauta in acesta si se iau : atributul AN al elementului "Planificare" 
+            //se initializeaza un nod de tipul XmlNodeList si se ia cel cu numele planificare
+            XmlNodeList elemList = doc.GetElementsByTagName("planificare");   
             for (int i = 0; i < elemList.Count; i++)
             {
                 an = elemList[i].Attributes["AN"].Value;
                 aux = elemList[i].ChildNodes[i].InnerText;
             }
-            // label2.Text = an;  //anul se afiseaza in label2
-            // label4.Text = aux; // numele tarii se afiseaza in label 4
+           
 
             dataGridView1.BackgroundColor = Color.White;
             dataGridView1.BorderStyle = BorderStyle.None;
         }
-
-        public void CautaEchipe() //functie ce umple campul "nume" de tip lista cu numele echipelor din fisierul xml ;
+        //functie pentru popularea campurilor ce necesita echipe..se vor popula toate echipele..//ce prezinta tagul <nume_echipa>
+        public void CautaEchipe() 
         {
             XElement xml = XElement.Load("PrestareServiciiDomiciliu.xml");
 
@@ -50,12 +50,12 @@ namespace PrestareServiciiDomiciliu
 
             foreach (XElement echipa in campionat)
             {
-                nume = new List<string>();
+                nume = new List<string>(); //lista ce contine numele echipelor
                 nume.Clear();
                 {
-                    foreach (XElement numep in echipa.Descendants("nume_echipa")) //se ia fiecare nume al echipei si se pune in lista "nume"
+                    foreach (XElement numep in echipa.Descendants("nume_echipa")) 
                     {
-                        nume.Add((String)numep);
+                        nume.Add((String)numep); //adaugare in lista
                     }
                 }
 
@@ -136,7 +136,7 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
         }
 
-        private void button5_Click(object sender, EventArgs e) //butonul ce duce la pagina anterioara Start Page
+        private void button5_Click(object sender, EventArgs e) //buton ce initializeaza Form1 ..initializare meniu principal
         {
             Hide();
             new Form1().Show();

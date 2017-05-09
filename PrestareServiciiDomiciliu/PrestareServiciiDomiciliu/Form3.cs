@@ -14,15 +14,18 @@ namespace PrestareServiciiDomiciliu
 {
     public partial class Form3 : Form
     {
-        private XmlDocument doc = new XmlDocument();   //se initializeaza campurile folosie
+        private XmlDocument doc = new XmlDocument();   //creare camp privat de tip XML document pentru accesarea elementelor din fisierul xml
 
-        static List<string> numeEchipa = new List<string>();
-        static List<string> numeLocatie = new List<string>();
+        //initializare liste pentru adaugarea datelor din fisier si afisarea acestora in interfata
         static List<string> numePersContact = new List<string>();
         static List<string> data_assign = new List<string>();
-
+        static List<string> numeEchipa = new List<string>();
+        static List<string> numeLocatie = new List<string>();
         static List<string> numeEchipa1 = new List<string>();
         static List<string> echipaUrgenta = new List<string>();
+
+
+
 
         private int NrEchipe;
 
@@ -31,13 +34,13 @@ namespace PrestareServiciiDomiciliu
             InitializeComponent();
         }
 
-        public void Search() //functie in cadrul careia se cauta datele afisate si anume : nume echipa, nume stadion, nume arbitru si data_assign; aceste date se vor afisa ulteriol in tabela (dataGridView1).
+        public void Search() //cautare dupa nume_tag
         {
             XElement xml = XElement.Load("PrestareServiciiDomiciliu.xml");
 
             IEnumerable<XElement> companie = xml.Elements();
 
-            foreach (XElement echipa in companie) // din fisierul xml se extrage numele tuturor echipelor si se salveaza intr o lista "numeEchipa"
+            foreach (XElement echipa in companie) // din fisierul xml se extrage numele tuturor echipelor din companie si se salveaza intr o lista "numeEchipa"
             {
                 numeEchipa = new List<string>();
                 numeEchipa.Clear();
@@ -49,7 +52,7 @@ namespace PrestareServiciiDomiciliu
                 }
                 NrEchipe = numeEchipa.Count();
             }
-            foreach (XElement echipa in companie) //din fisierul xml se extrage numele tuturor stadioanelor pe care se joaca meciurile si se salveaza intr o lista "numeLocatie"
+            foreach (XElement echipa in companie) 
             {
                 numeLocatie = new List<string>();
                 numeLocatie.Clear();
@@ -60,7 +63,7 @@ namespace PrestareServiciiDomiciliu
                     }
                 }
             }
-            foreach (XElement echipa in companie) // din fisierul xml se extrage numele tuturor arbitrilor si se salveaza intr o lista "numePersContact"
+            foreach (XElement echipa in companie) 
             {
                 numePersContact = new List<string>();
                 numePersContact.Clear();
@@ -73,7 +76,7 @@ namespace PrestareServiciiDomiciliu
             }
             doc.Load("PrestareServiciiDomiciliu.xml");
 
-            XmlNodeList elemList = doc.GetElementsByTagName("data_assign"); // din fisierul xml se extrage data_assignul fiecarui meci si se salveaza intr o lista "data_assign"
+            XmlNodeList elemList = doc.GetElementsByTagName("data_assign"); 
             data_assign = new List<string>();
 
             for (int i = 0; i < elemList.Count; i++)
@@ -82,13 +85,13 @@ namespace PrestareServiciiDomiciliu
             }
         }
 
-        private void button5_Click(object sender, EventArgs e) //butonul Iesire ce duce la pagina anterioana
+        private void button5_Click(object sender, EventArgs e) //initialiare meniu principal
         {
             Hide();
             new Form1().Show();
         }
 
-        private void button1_Click(object sender, EventArgs e) // se afiseaza meciurile , stadionul pe care s-a jucat fiecare meci, data_assignul si arbitrul pentru grupa A
+        private void button1_Click(object sender, EventArgs e) 
         {
             dataGridView1.Rows.Clear();
             dataGridView1.Refresh();
@@ -98,17 +101,18 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.Columns[2].Name = "Data";
             dataGridView1.Columns[3].Name = "Adresa";
             dataGridView1.Columns[4].Name = "Persoana de contact";
+            //campuri ce vor fi afisate in interfata cu datele aferenta in cadrul unei echipe sau assignment 
             numeEchipa1 = new List<string>();
             echipaUrgenta = new List<string>();
 
             Search();
 
-            for (int i = 0; i < 5; i = i + 2)
+            for (int i = 0; i < 7; i = i + 2)
             {
                 numeEchipa1.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 1; i < 6; i = i + 2)
+            for (int i = 1; i < 8; i = i + 2)
             {
                 echipaUrgenta.Add((String)numeEchipa[i]);
             }
@@ -128,7 +132,7 @@ namespace PrestareServiciiDomiciliu
                 data_assign.Add((String)data_assign[i]);
             }
 
-            for (int j = 0; j < 3; j++)
+            for (int j = 0; j < 4; j++)
             {
                 string[] rand = new string[] { numeEchipa1[j], echipaUrgenta[j], data_assign[j], numeLocatie[j], numePersContact[j] };
                 dataGridView1.Rows.Add(rand);
@@ -138,7 +142,7 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
         }
 
-        private void button2_Click(object sender, EventArgs e)  // se afiseaza meciurile , stadionul pe care s-a jucat fiecare meci, data_assignul si arbitrul pentru grupa B
+        private void button2_Click(object sender, EventArgs e) 
         {
             List<string> numeS = new List<string>();
             List<string> numeA = new List<string>();
@@ -157,12 +161,12 @@ namespace PrestareServiciiDomiciliu
 
             Search();
 
-            for (int i = 6; i < 13; i = i + 2)
+            for (int i = 8; i < 15; i = i + 2)
             {
                 numeEchipa1.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 7; i < 14; i = i + 2)
+            for (int i = 9; i < 16; i = i + 2)
             {
                 echipaUrgenta.Add((String)numeEchipa[i]);
             }
@@ -192,7 +196,7 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
         }
 
-        private void button3_Click(object sender, EventArgs e) // se afiseaza meciurile , stadionul pe care s-a jucat fiecare meci, data_assignul si arbitrul pentru grupa C
+        private void button3_Click(object sender, EventArgs e) 
         {
             List<string> numeS = new List<string>();
             List<string> numeA = new List<string>();
@@ -211,12 +215,12 @@ namespace PrestareServiciiDomiciliu
 
             Search();
 
-            for (int i = 14; i < 18; i = i + 1)
+            for (int i = 17; i < 21; i = i + 1)
             {
                 numeEchipa1.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 15; i < 20; i = i + 1)
+            for (int i = 18; i < 22; i = i + 1)
             {
                 echipaUrgenta.Add((String)numeEchipa[i]);
             }
@@ -246,7 +250,7 @@ namespace PrestareServiciiDomiciliu
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
         }
 
-        private void button4_Click(object sender, EventArgs e) // se afiseaza meciurile , stadionul pe care s-a jucat fiecare meci, data_assignul si arbitrul pentru grupa D
+        private void button4_Click(object sender, EventArgs e) 
         {
             List<string> numeS = new List<string>();
             List<string> numeA = new List<string>();
@@ -265,32 +269,32 @@ namespace PrestareServiciiDomiciliu
 
             Search();
 
-            for (int i = 20; i < 23; i = i + 1)
+            for (int i = 22; i < 24; i = i + 1)
             {
                 numeEchipa1.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 21; i < 24; i = i + 1)
+            for (int i = 24; i < 26; i = i + 1)
             {
                 echipaUrgenta.Add((String)numeEchipa[i]);
             }
 
-            for (int i = 8; i < 12; i++)
+            for (int i = 10; i < 12; i++)
             {
                 numeS.Add((String)numeLocatie[i]);
             }
 
-            for (int i = 8; i < 12; i++)
+            for (int i = 10; i < 12; i++)
             {
                 numeA.Add((String)numePersContact[i]);
             }
 
-            for (int i = 9; i < 12; i++)
+            for (int i = 10; i < 12; i++)
             {
                 sc.Add((String)data_assign[i]);
             }
 
-            for (int j = 0; j < 3; j++)
+            for (int j = 0; j < 2; j++)
             {
                 string[] rand = new string[] { numeEchipa1[j], echipaUrgenta[j], sc[j], numeS[j], numeA[j] };
                 dataGridView1.Rows.Add(rand);

@@ -15,34 +15,35 @@ namespace PrestareServiciiDomiciliu
         {
             InitializeComponent();
         }
-
-        private void button2_Click(object sender, EventArgs e) //Se va deschide Form -ul 2 unde se pot vedea detaliile despre campionat
+        //actiune deschidere formular 2 pentru detalile de planificare
+        private void button2_Click(object sender, EventArgs e) 
         {
             this.Hide();
             Form2 f1 = new Form2();
             f1.ShowDialog();
         }
-
-        private void button1_Click(object sender, EventArgs e) ////Se va deschide Form -ul 3 unde se pot vedea meciurile jucate 
+        //initiailizare Form3 unde se poate vizualiza raportul aferent planificari
+        private void button1_Click(object sender, EventArgs e)  
         {
             this.Hide();
             Form3 f3 = new Form3();
             f3.ShowDialog();
         }
+        
+        private void button3_Click(object sender, EventArgs e)
+        {    //XslTransform
+            XslTransform xslTransformer; 
 
-        private void button3_Click(object sender, EventArgs e) // butonul "Vezi Detalii Campionat" ce permite afisarea XSL-ului
-        {
-            XslTransform xslTransformer;  //se declara  XslTransform
-
-            xslTransformer = new XslTransform();  // se initializeaza
-            xslTransformer.Load("prestare.xslt.xsl"); //se incarca documentul .xsl
+            xslTransformer = new XslTransform();  
+            xslTransformer.Load("prestare.xslt.xsl");
             xslTransformer.Transform("PrestareServiciiDomiciliu.xml", "prestareHtml.html");
             string dir = Directory.GetCurrentDirectory();
-            Debug.WriteLine("Locatie:  " + dir);
             Uri link = new Uri(String.Format("file:///{0}/prestareHtml.html", dir));
             webBrowser1.Navigate(link);
         }
 
+
+        //buton iesire
         private void button4_Click(object sender, EventArgs e)
         {
             this.Hide();

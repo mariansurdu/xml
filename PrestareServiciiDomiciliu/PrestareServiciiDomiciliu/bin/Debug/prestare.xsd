@@ -47,10 +47,7 @@ elementFormDefault="qualified">
 																	    <xs:element name="pozitie">
 																		<xs:simpleType>
 																			 <xs:restriction base="xs:string"> 
-																				<!-- <xs:enumeration value="Portar"/>
-																				 <xs:enumeration value="Fundas"/>
-																				 <xs:enumeration value="Mijlocas"/> 
-																				 <xs:enumeration value="Atacant"/> -->
+														
 																			 </xs:restriction>
 																		</xs:simpleType>
 																		</xs:element>
