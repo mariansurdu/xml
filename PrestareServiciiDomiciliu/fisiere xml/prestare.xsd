@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.acs.ro/"
+xmlns="http://www.acs.ro/"
+elementFormDefault="qualified"> 
+<xs:element name="planificari">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="planificare" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="tara" minOccurs="1" maxOccurs="1">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="denumire" type="xs:string"/>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+						<xs:element name="grupa" maxOccurs="unbounded">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="assignment" maxOccurs="6">
+										<xs:complexType>
+											<xs:sequence>
+												<xs:element name="echipa" maxOccurs="2">
+													<xs:complexType>
+														<xs:sequence>
+															<xs:element name="nume_echipa" type="xs:string"/>
+															<xs:element name="membru" maxOccurs="11">
+																<xs:complexType>
+																	<xs:sequence>
+																		<xs:element name="nume_membru">
+																		<xs:simpleType> 
+																			 <xs:restriction base="xs:string"> 
+																				 <xs:whiteSpace value="preserve"/> 
+																			 </xs:restriction> 
+																		</xs:simpleType>
+																		</xs:element>
+																		<xs:element name="serie_ci">
+																		<xs:simpleType> 
+																			 <xs:restriction base="xs:integer"> 
+																				 <xs:minInclusive value="1"/>
+																				 <xs:maxInclusive value="90"/> 
+																			 </xs:restriction> 
+																		</xs:simpleType>
+																		</xs:element>
+																	    <xs:element name="pozitie">
+																		<xs:simpleType>
+																			 <xs:restriction base="xs:string"> 
+														
+																			 </xs:restriction>
+																		</xs:simpleType>
+																		</xs:element>
+																	</xs:sequence>
+																</xs:complexType>
+															</xs:element>
+															<xs:element name="sofer" minOccurs="1" maxOccurs="1">
+																<xs:complexType>
+																	<xs:sequence>
+																		<xs:element name="nume_sofer">
+																		<xs:simpleType> 
+																			 <xs:restriction base="xs:string"> 
+																				 <xs:whiteSpace value="preserve"/> 
+																			 </xs:restriction> 
+																		</xs:simpleType>
+																		</xs:element>
+																	</xs:sequence>
+																</xs:complexType>
+															</xs:element>
+														</xs:sequence>
+													</xs:complexType>
+												</xs:element>
+												<xs:element name="locatie" minOccurs="1" maxOccurs="1">
+													<xs:complexType>
+														<xs:sequence>
+															<xs:element name="adresa" type="xs:string"/>
+															<xs:element name="oras" type="xs:string"/>
+															<xs:element name="capacitate" type="xs:integer"/>
+														</xs:sequence>
+													</xs:complexType>
+												</xs:element>
+												<xs:element name="persoana_de_contact" minOccurs="1" maxOccurs="1">
+													<xs:complexType>
+														<xs:sequence>
+															<xs:element name="nume_persoana_de_contact">
+															<xs:simpleType> 
+																<xs:restriction base="xs:string"> 
+																	<xs:whiteSpace value="preserve"/> 
+																</xs:restriction> 
+															</xs:simpleType>
+															</xs:element>
+														</xs:sequence>
+													</xs:complexType>
+												</xs:element>
+												<xs:element name="data_assign" minOccurs="1" maxOccurs="1">
+													<xs:complexType>
+														<xs:attribute name="val" type="xs:string" use="required"/>
+													</xs:complexType>
+												</xs:element>
+											</xs:sequence>
+											<xs:attribute name="asg_num" type="xs:string" use="required"/>
+										</xs:complexType>
+									</xs:element>
+								</xs:sequence>
+								<xs:attribute name="Nume_Grupa" type="xs:string" use="required"/>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+					<xs:attribute name="AN" type="xs:integer" use="required"/>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+</xs:schema>

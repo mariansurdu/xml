@@ -1,0 +1,1185 @@
+<?xml version="1.0"?> 
+<?xml-stylesheet type="text/xsl" href="E:\XML_GOOD\xml\PrestareServiciiDomiciliu\PrestareServiciiDomiciliu\bin\Debug\prestare.xslt"?>
+<!DOCTYPE planificari SYSTEM "prestare.dtd">
+<planificari
+xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" 
+xs:schemaLocation="http://www.acs.ro/ prestare.xsd">
+	<planificare AN = "2017">
+		<tara>
+			<denumire>Romania</denumire>
+		</tara>
+		<grupa Nume_Grupa = "A">
+			<assignment asg_num = "1">
+				<echipa>
+					<nume_echipa>Curatenie1</nume_echipa>
+					<membru>
+						<nume_membru>Andreea Alexe</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Responsabil Echipa</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Maria Burciu</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Raluca Cristea</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andrei Badea</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Gradinar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Alexandru Matache</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Antoneta Sandu</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Calcat Rufe</pozitie>
+					</membru>
+
+					<sofer>
+						<nume_sofer>Doru Aldea</nume_sofer>
+					</sofer>
+				</echipa>
+				<echipa>
+					<nume_echipa>Best Cleaning</nume_echipa>
+					<membru>
+						<nume_membru>Matei Basarab</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Responsabil Echipa</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Cristi Ciurea</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Gradinar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Mihaela Dublea</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Calcat Rufe</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Marius Ragu</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Madalina Culea</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Bogdan Iurie</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Responsabil Piscina</pozitie>
+					</membru>
+				
+					<sofer>
+						<nume_sofer>Paul Androne</nume_sofer>
+					</sofer>
+				</echipa>
+				<locatie>
+					<adresa>Republica,Faur 12</adresa>
+					<oras>Bucuresti</oras>
+					<capacitate>46116</capacitate>
+				</locatie>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Adriana Rusu</nume_persoana_de_contact>
+				</persoana_de_contact>
+				<data_assign val = "21/03/2017"/>
+			</assignment>
+			
+			<assignment asg_num="2">
+				<echipa>
+					<nume_echipa>Cleaning safe</nume_echipa>
+					<membru>
+						<nume_membru>Robert Martinescu</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Responsabil Echipa</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Marta Dobre</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Calcat Rufe</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Berta Craciunescu</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Martin Nita</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Gradinar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Carla Visinoiu</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Paula Umgureanu</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+
+					
+					<sofer>
+						<nume_sofer>Rebeca Dumitru</nume_sofer>
+					</sofer>
+				</echipa>
+				<echipa>
+					<nume_echipa>Cleaning now!</nume_echipa>
+					<membru>
+						<nume_membru>Paul Vis</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Gradinar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Stanca Perdun</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Responsabil Echipa</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Valentina Iuga</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Radu Beluciu</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Calcat Rufe</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Daniela Robu</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Nicoleta Nuta</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<sofer>
+						<nume_sofer>Carmen Voinea</nume_sofer>
+					</sofer>
+				</echipa>
+				<locatie>
+					<adresa>Bucuresti Ploiesti 44-46</adresa>
+					<oras>Bucuresti</oras>
+					<capacitate>46116</capacitate>
+				</locatie>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Eugen Popa</nume_persoana_de_contact>
+				</persoana_de_contact>
+				<data_assign val = "22/04/2017"/>
+			</assignment>
+			
+			<assignment asg_num="3">
+				<echipa>
+					<nume_echipa>Cleaning good</nume_echipa>
+					<membru>
+						<nume_membru>Andrei Onofrei</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Daniel Rusu</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Gradinar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Miruna Ducu </nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Responsabil Echipa</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andra Bega</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Calcat Rufe</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Cristina Eremia</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Francisca Grigore</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+
+					
+					<sofer>
+						<nume_sofer>Matei Ursu</nume_sofer>
+					</sofer>
+				</echipa>
+				<echipa>
+					<nume_echipa>Cleaning now</nume_echipa>
+					<membru>
+						<nume_membru>Marius Sofron</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Responsabil Echipa</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Grigore Albu</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Gradinar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Irina Mutu</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Carolina Mugur</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Calcat Rufe</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Filip Andrei</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Raluca Vlad</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<sofer>
+						<nume_sofer>Diana Tudor</nume_sofer>
+					</sofer>
+				</echipa>
+				<locatie>
+					<adresa>Splaiul unirii 32</adresa>
+					<oras>Cluj</oras>
+					<capacitate>46116</capacitate>
+				</locatie>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Ana Ciucure</nume_persoana_de_contact>
+				</persoana_de_contact>
+				<data_assign val = "21/02/2018"/>
+			</assignment>
+			<assignment asg_num="4">
+				<echipa>
+					<nume_echipa>Cleaning now</nume_echipa>
+					<membru>
+						<nume_membru>Indrie Anton</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Gradinar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Alexandru Chirita</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Responsabil Piscina</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andreea Niculescu</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Responsabil Echipa</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Marcela Iancu</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Adriana Dan</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Cristina Rosu</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+
+					
+					<sofer>
+						<nume_sofer>Darius Visan</nume_sofer>
+					</sofer>
+				</echipa>
+				<echipa>
+					<nume_echipa>Safe clean</nume_echipa>
+					<membru>
+						<nume_membru>Andi Marculescu</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Responsabil Echipa</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Adriana Marcu</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Calcat Rufe</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andreea Bucur</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Gradinar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Laura Toma</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Florentina Raicu</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Paula Ivan</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Menajera</pozitie>
+					</membru>
+
+					<sofer>
+						<nume_sofer>Vlad Dumitru</nume_sofer>
+					</sofer>
+				</echipa>
+				<locatie>
+					<adresa>Splaiul unirii 12</adresa>
+					<oras>Timisoara</oras>
+					<capacitate>39116</capacitate>
+				</locatie>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Ariana Bratu</nume_persoana_de_contact>
+				</persoana_de_contact>
+				<data_assign val = "22/05/2017"/>
+			</assignment>
+		</grupa>
+		
+    <grupa Nume_Grupa = "B">
+			<assignment asg_num="1">
+				<echipa>
+					<nume_echipa>Hairdress</nume_echipa>
+					<membru>
+						<nume_membru>Dan-Petre Vlad</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andrei Iurie</nume_membru>
+						<serie_ci>15</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andreea Matei</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Frizer</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Ana Raicu</nume_membru>
+						<serie_ci>18</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Matei Andreescu</nume_membru>
+						<serie_ci>16</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Bogdan Andrei</nume_membru>
+						<serie_ci>21</serie_ci>
+						<pozitie>Frizer</pozitie>
+					</membru>
+
+					<sofer>
+						<nume_sofer>Antonio Bratu</nume_sofer>
+					</sofer>
+				</echipa>
+				<echipa>
+					<nume_echipa>Hair and massage</nume_echipa>
+					<membru>
+						<nume_membru>Alexandru Macovei</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Maseur</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Maria Anton</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Marius Popa</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Frizer</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Radu Beligan</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Cristian Martinescu</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Dana Visan</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Frizer</pozitie>
+					</membru>
+
+					
+					<sofer>
+						<nume_sofer>Ina Grigore</nume_sofer>
+					</sofer>
+				</echipa>
+				<locatie>
+					<adresa>Tineretului 7</adresa>
+					<oras>Bucuresti</oras>
+					<capacitate>55000</capacitate>
+				</locatie>
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Ana-Maria Ruse</nume_persoana_de_contact>
+				</persoana_de_contact>
+				<data_assign val = "21/02/2019"/>
+			</assignment>
+			
+			<assignment asg_num="2">
+				<echipa>
+					<nume_echipa>Hair and body</nume_echipa>
+					<membru>
+						<nume_membru>Claudiu Petre</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Body Lifting</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Isabela Badea</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Maseur</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Marcel Nedelcu</nume_membru>
+						<serie_ci>17</serie_ci>
+						<pozitie>Frizer</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andrei Gabriel</nume_membru>
+						<serie_ci>18</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andreea Grigore</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Adrian Vlad</nume_membru>
+						<serie_ci>20</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+				
+					
+					<sofer>
+						<nume_sofer>Victoe Marin</nume_sofer>
+					</sofer>
+				</echipa>
+				<echipa>
+					<nume_echipa>Hair and more</nume_echipa>
+					<membru>
+						<nume_membru>Marcel Naum</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Diana Visan</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Alex Iurie</nume_membru>
+						<serie_ci>22</serie_ci>
+						<pozitie>Frizer</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Isa Nae</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Maseur</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Rebeca Popa</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Mircea Radu</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					
+					
+					<sofer>
+						<nume_sofer>Andrei Vicol</nume_sofer>
+					</sofer>
+				</echipa>				
+				<locatie>
+					<adresa>Regie 12</adresa>
+					<oras>Bucuresti</oras>
+					<capacitate>42500</capacitate>
+				</locatie>				
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Andra Alexa</nume_persoana_de_contact>
+				</persoana_de_contact>				
+				<data_assign val = "24/03/2017"/>
+			</assignment>			
+			
+			<assignment asg_num="3">
+				<echipa>
+					<nume_echipa>Hair safe</nume_echipa>
+					<membru>
+						<nume_membru>Matei Dobre</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Darius Iurie</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Frizer</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Alex Visan</nume_membru>
+						<serie_ci>22</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Daniel Faur</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Laura Stoian</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Georgiana Nuca</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					
+					
+					<sofer>
+						<nume_sofer>Anton Aldea</nume_sofer>
+					</sofer>				
+				</echipa>				
+				<echipa>
+					<nume_echipa>Hair and more</nume_echipa>
+					<membru>
+						<nume_membru>Enache Eremia</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Eugen Iurie</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Eduard Matei</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Frizer</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Emilia Minea</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Frizer</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Himena Jilbea</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Georgian Nita</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					
+					
+					<sofer>
+						<nume_sofer>Paul Gherasim</nume_sofer>
+					</sofer>
+				</echipa>				
+				<locatie>
+					<adresa>Unirii 21</adresa>
+					<oras>Timisoara</oras>
+					<capacitate>51300</capacitate>
+				</locatie>			
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Florin Cucu</nume_persoana_de_contact>
+				</persoana_de_contact>			
+				<data_assign val = "25/09/2017"/>
+			</assignment>			
+			<assignment asg_num="4">
+				<echipa>
+					<nume_echipa>Hairdress</nume_echipa>
+					
+					<membru>
+						<nume_membru>Sergiu Raica</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Carla Martinescu</nume_membru>
+						<serie_ci>15</serie_ci>
+						<pozitie>Frizer</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Mihaela Dumbrava</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andrei Jinga</nume_membru>
+						<serie_ci>18</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Ana-Maria Gramanski</nume_membru>
+						<serie_ci>16</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>David Gueta</nume_membru>
+						<serie_ci>21</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+				
+					<sofer>
+						<nume_sofer>Alexandru Beluciu</nume_sofer>
+					</sofer>
+				</echipa>				
+				<echipa>
+					<nume_echipa>Hair safe</nume_echipa>
+					<membru>
+						<nume_membru>Robert Anton</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Ioan Popa</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Gabriel Guminski</nume_membru>
+						<serie_ci>17</serie_ci>
+						<pozitie>Frizer</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Monica Olaru</nume_membru>
+						<serie_ci>18</serie_ci>
+						<pozitie>Stylist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Eugen Macovei</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Samponez</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Cristi Velea</nume_membru>
+						<serie_ci>20</serie_ci>
+						<pozitie>Frizer</pozitie>
+					</membru>
+					
+					<sofer>
+						<nume_sofer>Doru Ivan</nume_sofer>
+					</sofer>
+				</echipa>				
+				<locatie>
+					<adresa>Ferentari 12</adresa>
+					<oras>Bucuresti</oras>
+					<capacitate>78838</capacitate>
+				</locatie>				
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Nicoleta Filip</nume_persoana_de_contact>
+				</persoana_de_contact>				
+				<data_assign val = "24/05/2019"/>
+			</assignment>			
+			
+			
+		</grupa>
+		
+		<grupa Nume_Grupa = "C">
+			<assignment asg_num="1">
+				<echipa>
+					<nume_echipa>Amenajari</nume_echipa>
+					<membru>
+						<nume_membru>Georgiana Matei</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Proiectant</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Eugen Pop</nume_membru>
+						<serie_ci>18</serie_ci>
+						<pozitie>Zugrav</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andreea Naum</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Peisagist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Marcel Nedelcu</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Zugrav</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Paul Albu</nume_membru>
+						<serie_ci>7</serie_ci>
+						<pozitie>Gradinar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Iulian Macovei</nume_membru>
+						<serie_ci>11</serie_ci>
+						<pozitie>Tamplar</pozitie>
+					</membru>
+					
+					<sofer>
+						<nume_sofer>Relu Dobre</nume_sofer>
+					</sofer>
+				</echipa>
+				
+				<echipa>
+					<nume_echipa>Zugravit</nume_echipa>
+					<membru>
+						<nume_membru>Lucian Grigore</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Proiectant</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Vasile Faur</nume_membru>
+						<serie_ci>15</serie_ci>
+						<pozitie>Zugrav</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Anca Lica</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Peisagist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Sandu Bratu</nume_membru>
+						<serie_ci>19</serie_ci>
+						<pozitie>Tamplar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Iulian Jinga</nume_membru>
+						<serie_ci>20</serie_ci>
+						<pozitie>Gradinar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Ioan Himena</nume_membru>
+						<serie_ci>21</serie_ci>
+						<pozitie>Zugrav</pozitie>
+					</membru>
+
+					<sofer>
+						<nume_sofer>Felix Dobre</nume_sofer>
+					</sofer>
+				</echipa>
+				
+				<locatie>
+					<adresa>Aviatorilor 239</adresa>
+					<oras>Bucuresti</oras>
+					<capacitate>57300</capacitate>
+				</locatie>
+				
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Nicolae Stroe</nume_persoana_de_contact>
+				</persoana_de_contact>
+				
+				<data_assign val = "10/2/2017"/>
+			</assignment>
+			
+			<assignment asg_num="2">
+				<echipa>
+				
+					<nume_echipa>Parchet si podele</nume_echipa>
+					
+					<membru>
+						<nume_membru>Robert Anton</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Proiectant</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Iurie Ivan</nume_membru>
+						<serie_ci>18</serie_ci>
+						<pozitie>Tamplar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Radu Macovei</nume_membru>
+						<serie_ci>17</serie_ci>
+						<pozitie>Responsabil Echipa</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andrei Sima</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Muncitor Executant</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Tudor Ursu</nume_membru>
+						<serie_ci>22</serie_ci>
+						<pozitie>Tamplar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Georgian Alexe</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Muncitor Executant</pozitie>
+					</membru>
+					
+					
+					<sofer>
+						<nume_sofer>Dan Cristea</nume_sofer>
+					</sofer>
+				</echipa>
+				
+				<echipa>
+				
+					<nume_echipa>Instalatie electrica</nume_echipa>
+					
+					<membru>
+						<nume_membru>Mihai Enache</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Proiectant</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Paul Radu</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Electrician</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Mircea Aldea</nume_membru>
+						<serie_ci>22</serie_ci>
+						<pozitie>Electrician</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Marius Vicol</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Muncitor Executant</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Stefan Albert</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Responsabil Echipa</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Stefan Munteanu</nume_membru>
+						<serie_ci>16</serie_ci>
+						<pozitie>Muncitor Executant</pozitie>
+					</membru>
+				
+					
+					<sofer>
+						<nume_sofer>Florin Alixandru</nume_sofer>
+					</sofer>
+				</echipa>
+				
+				<locatie>
+					<adresa>Pipera 70</adresa>
+					<oras>Bucuresti</oras>
+					<capacitate>46160</capacitate>
+				</locatie>
+				
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Iulia Albu</nume_persoana_de_contact>
+				</persoana_de_contact>
+				
+				<data_assign val = "11/2/2017"/>
+			</assignment>
+			
+			<assignment asg_num="3">
+				<echipa>
+				
+					<nume_echipa>Instalatii electrice</nume_echipa>
+					
+					<membru>
+						<nume_membru>David Oprisan</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Proiectant</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Ioan Dobre</nume_membru>
+						<serie_ci>18</serie_ci>
+						<pozitie>Electrician</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Cristi Mircea</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Muncitor Executant</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andrei Alexe</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Responsabil Echipa</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Artur Martin</nume_membru>
+						<serie_ci>7</serie_ci>
+						<pozitie>Electrician</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Dan Jilbea</nume_membru>
+						<serie_ci>11</serie_ci>
+						<pozitie>Muncitor Executant</pozitie>
+					</membru>
+			
+					
+					<sofer>
+						<nume_sofer>Traian Enache</nume_sofer>
+					</sofer>
+					
+				</echipa>
+			
+				<echipa>
+				
+					<nume_echipa>Parchet si podele</nume_echipa>
+					
+					<membru>
+						<nume_membru>Alexandru Luchian</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Tamplar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Bogdan Ruste</nume_membru>
+						<serie_ci>18</serie_ci>
+						<pozitie>Responsabil Echipa</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Sergiu Dan</nume_membru>
+						<serie_ci>17</serie_ci>
+						<pozitie>Tamplar</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Ionel Augustin</nume_membru>
+						<serie_ci>5</serie_ci>
+						<pozitie>Muncitor Executant</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Sandu Martinescu</nume_membru>
+						<serie_ci>22</serie_ci>
+						<pozitie>Muncitor Executant</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Florin Cristea</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Proiectant</pozitie>
+					</membru>
+					
+					
+					<sofer>
+						<nume_sofer>George Florescu</nume_sofer>
+					</sofer>
+				</echipa>
+				<locatie>
+					<adresa>Grozavesti 12</adresa>
+					<oras>Bucuresti</oras>
+					<capacitate>69160</capacitate>
+				</locatie>
+				
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Andrei Ruste</nume_persoana_de_contact>
+				</persoana_de_contact>
+				
+				<data_assign val = "12/2/2017"/>
+			
+			</assignment>
+			
+		
+		</grupa>
+		
+		<grupa Nume_Grupa = "D">
+			<assignment asg_num="1">
+				<echipa>
+					<nume_echipa>Manichiura</nume_echipa>
+					<membru>
+						<nume_membru>Andreea Topescu</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Manechiurista Semipermanent</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Raluca Dobre</nume_membru>
+						<serie_ci>16</serie_ci>
+						<pozitie>Manechiurista Gel</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Lucia Radu</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Intretinere Gel</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Diana Savu</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Manechiurista Clasic</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Marta Nuca</nume_membru>
+						<serie_ci>22</serie_ci>
+						<pozitie>Pedichiurista</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Cristina Bratu</nume_membru>
+						<serie_ci>11</serie_ci>
+						<pozitie>Manechiurista Clasic</pozitie>
+					</membru>
+			
+					
+					<sofer>
+						<nume_sofer>Oana Jinga</nume_sofer>
+					</sofer>
+				</echipa>
+				
+				<echipa>
+					<nume_echipa>Pedichiura</nume_echipa>
+					<membru>
+						<nume_membru>Paul Nisioiu</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Pedichiurista Semipermanent</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Ana Matei</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Pedichiurista Clasic</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andreea Dan</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Pedichiurista Gel</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Laura Faur</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Intretinere Gel</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Petra Martinescu</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Manechiurista</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Diana Grigore</nume_membru>
+						<serie_ci>16</serie_ci>
+						<pozitie>Pedichiurista Clasic</pozitie>
+					</membru>
+				
+					<sofer>
+						<nume_sofer>Dan Petre</nume_sofer>
+					</sofer>
+				</echipa>
+				
+				<locatie>
+					<adresa>Crangasi 13</adresa>
+					<oras>Bucuresti</oras>
+					<capacitate>58360</capacitate>
+				</locatie>
+				
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Ioana Luchian</nume_persoana_de_contact>
+				</persoana_de_contact>
+				
+				<data_assign val = "9/2/2017"/>
+			
+			</assignment>
+			
+			<assignment asg_num="2">
+				<echipa>
+					<nume_echipa>Masaj</nume_echipa>
+					<membru>
+						<nume_membru>Luiza Munteanu</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Maseuza</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Lucian Matache</nume_membru>
+						<serie_ci>2</serie_ci>
+						<pozitie>Maseur Specialist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andreea Lica</nume_membru>
+						<serie_ci>6</serie_ci>
+						<pozitie>Preparator</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Filip Androne</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Maseur</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Maria Dublea</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Maseuza Specialist</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Eugen Sergiu</nume_membru>
+						<serie_ci>16</serie_ci>
+						<pozitie>Preparator</pozitie>
+					</membru>
+					
+					
+					<sofer>
+						<nume_sofer>Adriana Datcu</nume_sofer>
+					</sofer>
+				</echipa>
+				
+				<echipa>
+					<nume_echipa>Relaxare..manichiura..pedichiura</nume_echipa>
+					<membru>
+						<nume_membru>Stanca Faur</nume_membru>
+						<serie_ci>1</serie_ci>
+						<pozitie>Maseuza</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Raluca Dan</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Manechiurista</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Andreea Petre</nume_membru>
+						<serie_ci>15</serie_ci>
+						<pozitie>Pedichiurista</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Gabriel Paul</nume_membru>
+						<serie_ci>20</serie_ci>
+						<pozitie>Maseur</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Mihaela Nica</nume_membru>
+						<serie_ci>4</serie_ci>
+						<pozitie>Manechiurista</pozitie>
+					</membru>
+					<membru>
+						<nume_membru>Paula Tudor</nume_membru>
+						<serie_ci>3</serie_ci>
+						<pozitie>Pedichiurista</pozitie>
+					</membru>
+		
+					<sofer>
+						<nume_sofer>Nicoleta Pana</nume_sofer>
+					</sofer>
+				</echipa>
+				<locatie>
+					<adresa>Basarab 12</adresa>
+					<oras>Bucuresti</oras>
+					<capacitate>40800</capacitate>
+				</locatie>
+				
+				<persoana_de_contact>
+					<nume_persoana_de_contact>Alexandra Lica</nume_persoana_de_contact>
+				</persoana_de_contact>
+				
+				<data_assign val = "19/2/2017"/>
+			
+			</assignment>
+			
+		
+		</grupa>
+		
+	</planificare>
+</planificari>

@@ -1,0 +1,36 @@
+<!ELEMENT planificari (planificare+)>
+<!ATTLIST planificare AN CDATA #REQUIRED>
+<!ELEMENT planificare (tara,grupa+)>
+<!ELEMENT tara (denumire)>
+<!ELEMENT denumire (#PCDATA)>
+<!ATTLIST grupa Nume_Grupa CDATA #REQUIRED>
+<!ELEMENT grupa (assignment+)>  
+<!ATTLIST assignment asg_num CDATA #REQUIRED> 
+<!ELEMENT assignment (echipa+,locatie,persoana_de_contact,data_assign)>
+<!ELEMENT echipa (nume_echipa,membru+,sofer)>
+<!ELEMENT nume_echipa (#PCDATA)>
+<!ELEMENT membru (nume_membru,serie_ci,pozitie)>
+<!ELEMENT nume_membru (#PCDATA)>
+<!ELEMENT serie_ci (#PCDATA)>
+<!ELEMENT pozitie (#PCDATA)>
+<!ELEMENT sofer (nume_sofer)>
+<!ELEMENT nume_sofer (#PCDATA)>
+<!ELEMENT locatie (adresa,oras,capacitate)>
+<!ELEMENT adresa (#PCDATA)>
+<!ELEMENT oras (#PCDATA)>
+<!ELEMENT capacitate (#PCDATA)>
+<!ELEMENT persoana_de_contact (nume_persoana_de_contact)>
+<!ELEMENT nume_persoana_de_contact (#PCDATA)>
+<!ELEMENT data_assign EMPTY> 
+<!ATTLIST data_assign val CDATA #REQUIRED>
+
+
+
+
+
+
+
+
+
+
+
